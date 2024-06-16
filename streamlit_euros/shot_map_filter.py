@@ -1,5 +1,9 @@
 import os
 import json
+import pandas as pd
+import streamlit as st
+
+from mplsoccer import VerticalPitch, Pitch
 
 def scrape_sofascore(url: str) -> None:
 
@@ -28,16 +32,15 @@ def scrape_sofascore(url: str) -> None:
     df['y'] = df['playerCoordinates'].apply(lambda x: x['y'])
 
     # Append the data to the shots.csv
-    df.to_csv('~/Documents/Github/projects/streamlit_euros/shots.csv', mode='a', header=False, index=False)
+    df.to_csv('~/Documents/Github/streamlit/streamlit_euros/shots.csv', mode='a', header=False, index=False)
 
 # scrape_sofascore('https://www.sofascore.com/germany-scotland/VTbslUb#id:11873905')
 # scrape_sofascore('https://www.sofascore.com/hungary-switzerland/ZTbsjUb#id:11873897')
 # scrape_sofascore('https://www.sofascore.com/croatia-spain/YTbspUb#id:11873907')
 # scrape_sofascore('https://www.sofascore.com/italy-albania/PTbshUb#id:11873898')
+# scrape_sofascore('https://www.sofascore.com/netherlands-poland/dUbsfUb#id:12198302')
+# scrape_sofascore('https://www.sofascore.com/slovenia-denmark/BObsJOb#id:11873971')
 
-import streamlit as st
-import pandas as pd
-from mplsoccer import VerticalPitch, Pitch
 
 st.title("Euros 2024 Shot Map")
 st.subheader("Filter to any team/player to see all their shots taken!")
