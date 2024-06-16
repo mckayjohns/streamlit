@@ -44,7 +44,7 @@ st.subheader("Filter to any team or player to see all shots taken in the 2024 Eu
 
 # Load the data
 try:
-    df = pd.read_csv('streamlit_euros/shots.csv')
+    df = pd.read_csv('./streamlit_euros/shots.csv')
     df = df[df['situation'] != 'own'].reset_index()
     df = df.sort_values(by=['team', 'player'])
 except pd.errors.EmptyDataError:
