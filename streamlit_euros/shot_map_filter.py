@@ -40,7 +40,7 @@ import pandas as pd
 from mplsoccer import VerticalPitch, Pitch
 
 st.title("Euros 2024 Shot Map")
-st.subheader("Filter to any team or player to see all shots taken in the 2024 Euros!")
+st.subheader("Filter to any team/player to see all their shots taken!")
 
 # Load the data
 try:
