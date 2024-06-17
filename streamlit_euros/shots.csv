@@ -1,129 +1,998 @@
-player,isHome,shotType,situation,playerCoordinates,bodyPart,goalMouthLocation,goalMouthCoordinates,blockCoordinates,xg,id,time,timeSeconds,draw,reversedPeriodTime,reversedPeriodTimeSeconds,incidentType,xgot,goalType,addedTime,team,x,y
-Ferran Torres,True,block,fast-break,"{'x': 9.5, 'y': 69.5, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.9, 'z': 19}","{'x': 8.5, 'y': 67.7, 'z': 0}",0.045293860137463,3350732,88,5272,"{'start': {'x': 69.5, 'y': 9.5}, 'block': {'x': 67.7, 'y': 8.5}, 'end': {'x': 52.1, 'y': 0}, 'goal': {'x': 52.1, 'y': 81}}",3,128,shot,,,,Spain,9.5,69.5
-Dani Olmo,True,block,assisted,"{'x': 26.2, 'y': 48.5, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.1, 'z': 19}","{'x': 22.7, 'y': 48.6, 'z': 0}",0.024577317759395,3350721,74,4392,"{'start': {'x': 48.5, 'y': 26.2}, 'block': {'x': 48.6, 'y': 22.7}, 'end': {'x': 48.9, 'y': 0}, 'goal': {'x': 48.9, 'y': 81}}",17,1008,shot,,,,Spain,26.2,48.5
-Lamine Yamal,True,block,free-kick,"{'x': 25.3, 'y': 58.7, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.4, 'z': 19}","{'x': 17.7, 'y': 56.9, 'z': 0}",0.066643297672272,3350714,58,3437,"{'start': {'x': 58.7, 'y': 25.3}, 'block': {'x': 56.9, 'y': 17.7}, 'end': {'x': 52.6, 'y': 0}, 'goal': {'x': 52.6, 'y': 81}}",33,1963,shot,,,,Spain,25.3,58.7
-Álvaro Morata,True,miss,corner,"{'x': 2.6, 'y': 42.1, 'z': 0}",right-foot,right,"{'x': 0, 'y': 0.3, 'z': 30.6}","{'x': 2.4, 'y': 100, 'z': 0}",0.23782688379288,3350707,54,3181,"{'start': {'x': 42.1, 'y': 2.6}, 'block': {'x': 100, 'y': 2.4}, 'end': {'x': 99.7, 'y': 0}, 'goal': {'x': 99.7, 'y': 69.4}}",37,2219,shot,,,,Spain,2.6,42.1
-Lamine Yamal,True,save,fast-break,"{'x': 9.8, 'y': 61.5, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.3, 'z': 3.2}","{'x': 4.2, 'y': 54.7, 'z': 0}",0.32134181261063,3350706,52,3105,"{'start': {'x': 61.5, 'y': 9.8}, 'block': {'x': 54.7, 'y': 4.2}, 'end': {'x': 47.7, 'y': 0}, 'goal': {'x': 47.7, 'y': 96.8}}",39,2295,shot,0.8362,,,Spain,9.8,61.5
-Daniel Carvajal,True,goal,corner,"{'x': 5.2, 'y': 53.6, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 48.7, 'z': 2.5}",,0.50334048271179,3350623,45,2814,"{'start': {'x': 53.6, 'y': 5.2}, 'end': {'x': 51.3, 'y': 0}, 'goal': {'x': 51.3, 'y': 97.5}}",1,2586,shot,0.649,regular,2.0,Spain,5.2,53.6
-Robin Le Normand,True,miss,corner,"{'x': 6.1, 'y': 48.5, 'z': 0}",head,high-left,"{'x': 0, 'y': 57.8, 'z': 76.4}",,0.14660137891769,3350619,36,2110,"{'start': {'x': 48.5, 'y': 6.1}, 'end': {'x': 42.2, 'y': 0}, 'goal': {'x': 42.2, 'y': 23.6}}",10,590,shot,,,,Spain,6.1,48.5
-Fabián Ruiz,True,goal,assisted,"{'x': 14.3, 'y': 46.6, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 48, 'z': 0.6}",,0.13585475087166,3350616,32,1885,"{'start': {'x': 46.6, 'y': 14.3}, 'end': {'x': 52, 'y': 0}, 'goal': {'x': 52, 'y': 99.4}}",14,815,shot,0.1444,regular,,Spain,14.3,46.6
-Álvaro Morata,True,goal,fast-break,"{'x': 15.6, 'y': 49.7, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.6, 'z': 3.8}",,0.40400397777557,3350613,29,1688,"{'start': {'x': 49.7, 'y': 15.6}, 'end': {'x': 47.4, 'y': 0}, 'goal': {'x': 47.4, 'y': 96.2}}",17,1012,shot,0.874,regular,,Spain,15.6,49.7
-Lamine Yamal,True,miss,fast-break,"{'x': 11.9, 'y': 62.4, 'z': 0}",left-foot,close-right,"{'x': 0, 'y': 41.5, 'z': 12.5}","{'x': 2, 'y': 59.4, 'z': 0}",0.079328164458275,3350578,15,852,"{'start': {'x': 62.4, 'y': 11.9}, 'block': {'x': 59.4, 'y': 2}, 'end': {'x': 58.5, 'y': 0}, 'goal': {'x': 58.5, 'y': 87.5}}",31,1848,shot,,,,Spain,11.9,62.4
-Álvaro Morata,True,save,assisted,"{'x': 22.1, 'y': 63, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 46.8, 'z': 1.9}","{'x': 1, 'y': 51.1, 'z': 0}",0.047076772898436,3350577,7,382,"{'start': {'x': 63, 'y': 22.1}, 'block': {'x': 51.1, 'y': 1}, 'end': {'x': 53.2, 'y': 0}, 'goal': {'x': 53.2, 'y': 98.1}}",39,2318,shot,0.1882,,,Spain,22.1,63.0
-Ivan Perišić,False,miss,assisted,"{'x': 11, 'y': 35.2, 'z': 0}",head,high-left,"{'x': 0, 'y': 63.9, 'z': 44.4}",,0.013606139458716,3350761,90,5508,"{'start': {'x': 35.2, 'y': 11}, 'end': {'x': 36.1, 'y': 0}, 'goal': {'x': 36.1, 'y': 55.6}}",1,792,shot,,,2.0,Croatia,11.0,35.2
-Ivan Perišić,False,save,assisted,"{'x': 28.4, 'y': 32.7, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 53.9, 'z': 15.2}","{'x': 1.5, 'y': 48.9, 'z': 0}",0.017737736925483,3350728,84,5032,"{'start': {'x': 32.7, 'y': 28.4}, 'block': {'x': 48.9, 'y': 1.5}, 'end': {'x': 46.1, 'y': 0}, 'goal': {'x': 46.1, 'y': 84.8}}",7,368,shot,0.1917,,,Croatia,28.4,32.7
-Ivan Perišić,False,block,assisted,"{'x': 18.2, 'y': 33.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.8, 'z': 19}","{'x': 14.9, 'y': 36.3, 'z': 0}",0.045337736606598,3350729,84,5024,"{'start': {'x': 33.4, 'y': 18.2}, 'block': {'x': 36.3, 'y': 14.9}, 'end': {'x': 49.2, 'y': 0}, 'goal': {'x': 49.2, 'y': 81}}",7,376,shot,,,,Croatia,18.2,33.4
-Bruno Petković,False,save,penalty,"{'x': 11.5, 'y': 50, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.8, 'z': 11.4}","{'x': 1, 'y': 49.8, 'z': 0}",0.7884,3350723,80,4742,"{'start': {'x': 50, 'y': 11.5}, 'block': {'x': 49.8, 'y': 1}, 'end': {'x': 46.2, 'y': 0}, 'goal': {'x': 46.2, 'y': 88.6}}",11,658,shot,0.9883,,,Croatia,11.5,50.0
-Mateo Kovačić,False,miss,regular,"{'x': 4.2, 'y': 43.2, 'z': 0}",head,left,"{'x': 0, 'y': 78.2, 'z': 9.7}","{'x': 2.2, 'y': 35.4, 'z': 0}",0.20006696879864,3350713,55,3273,"{'start': {'x': 43.2, 'y': 4.2}, 'block': {'x': 35.4, 'y': 2.2}, 'end': {'x': 21.8, 'y': 0}, 'goal': {'x': 21.8, 'y': 90.3}}",36,2127,shot,,,,Croatia,4.2,43.2
-Andrej Kramarić,False,save,assisted,"{'x': 2.7, 'y': 50.9, 'z': 0}",head,high-centre,"{'x': 0, 'y': 50.3, 'z': 24.7}","{'x': 1.5, 'y': 50.7, 'z': 0}",0.44897362589836,3350711,55,3272,"{'start': {'x': 50.9, 'y': 2.7}, 'block': {'x': 50.7, 'y': 1.5}, 'end': {'x': 49.7, 'y': 0}, 'goal': {'x': 49.7, 'y': 75.3}}",36,2128,shot,0.8995,,,Croatia,2.7,50.9
-Ante Budimir,False,miss,regular,"{'x': 3, 'y': 46.6, 'z': 0}",head,close-right,"{'x': 0, 'y': 41.3, 'z': 12.5}","{'x': 1.9, 'y': 52.5, 'z': 0}",0.26666194200516,3350709,55,3272,"{'start': {'x': 46.6, 'y': 3}, 'block': {'x': 52.5, 'y': 1.9}, 'end': {'x': 58.7, 'y': 0}, 'goal': {'x': 58.7, 'y': 87.5}}",36,2128,shot,,,,Croatia,3.0,46.6
-Josip Stanišić,False,block,regular,"{'x': 7.4, 'y': 59.3, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 48.1, 'z': 19}","{'x': 2.4, 'y': 54.3, 'z': 0}",0.18661279976368,3350708,55,3270,"{'start': {'x': 59.3, 'y': 7.4}, 'block': {'x': 54.3, 'y': 2.4}, 'end': {'x': 51.9, 'y': 0}, 'goal': {'x': 51.9, 'y': 81}}",36,2130,shot,,,,Croatia,7.4,59.3
-Joško Gvardiol,False,block,assisted,"{'x': 18.7, 'y': 30, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 48.8, 'z': 19}","{'x': 9.8, 'y': 40.1, 'z': 0}",0.033455315977335,3350704,51,3000,"{'start': {'x': 30, 'y': 18.7}, 'block': {'x': 40.1, 'y': 9.8}, 'end': {'x': 51.2, 'y': 0}, 'goal': {'x': 51.2, 'y': 81}}",40,2400,shot,,,,Croatia,18.7,30.0
-Mateo Kovačić,False,miss,assisted,"{'x': 25.4, 'y': 36.6, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 35.1, 'z': 51.4}",,0.01821188442409,3350622,45,2732,"{'start': {'x': 36.6, 'y': 25.4}, 'end': {'x': 64.9, 'y': 0}, 'goal': {'x': 64.9, 'y': 48.6}}",1,2668,shot,,,1.0,Croatia,25.4,36.6
-Andrej Kramarić,False,miss,assisted,"{'x': 30.4, 'y': 55.3, 'z': 0}",right-foot,close-high-left,"{'x': 0, 'y': 57.8, 'z': 51.4}",,0.014164580032229,3350621,45,2659,"{'start': {'x': 55.3, 'y': 30.4}, 'end': {'x': 42.2, 'y': 0}, 'goal': {'x': 42.2, 'y': 48.6}}",1,41,shot,,,,Croatia,30.4,55.3
-Joško Gvardiol,False,miss,assisted,"{'x': 4.5, 'y': 35, 'z': 0}",left-foot,right,"{'x': 0, 'y': 40.7, 'z': 12.5}",,0.060781434178352,3350620,41,2448,"{'start': {'x': 35, 'y': 4.5}, 'end': {'x': 59.3, 'y': 0}, 'goal': {'x': 59.3, 'y': 87.5}}",5,252,shot,,,,Croatia,4.5,35.0
-Lovro Majer,False,miss,regular,"{'x': 2.9, 'y': 64.2, 'z': 0}",right-foot,close-right,"{'x': 0, 'y': 42.9, 'z': 15.3}",,0.12414707243443,3350618,33,1976,"{'start': {'x': 64.2, 'y': 2.9}, 'end': {'x': 57.1, 'y': 0}, 'goal': {'x': 57.1, 'y': 84.7}}",13,724,shot,,,,Croatia,2.9,64.2
-Marcelo Brozović,False,save,regular,"{'x': 18.5, 'y': 49.9, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.4, 'z': 3.8}","{'x': 2.4, 'y': 49.1, 'z': 0}",0.097135782241821,3350617,33,1974,"{'start': {'x': 49.9, 'y': 18.5}, 'block': {'x': 49.1, 'y': 2.4}, 'end': {'x': 52.6, 'y': 0}, 'goal': {'x': 52.6, 'y': 96.2}}",13,726,shot,0.1575,,,Croatia,18.5,49.9
-Mateo Kovačić,False,save,assisted,"{'x': 15, 'y': 47.9, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.7, 'z': 1.9}","{'x': 3.1, 'y': 50.4, 'z': 0}",0.13484826683998,3350615,30,1792,"{'start': {'x': 47.9, 'y': 15}, 'block': {'x': 50.4, 'y': 3.1}, 'end': {'x': 52.3, 'y': 0}, 'goal': {'x': 52.3, 'y': 98.1}}",16,908,shot,0.1603,,,Croatia,15.0,47.9
-Ante Budimir,False,miss,assisted,"{'x': 13, 'y': 48.9, 'z': 0}",head,high-right,"{'x': 0, 'y': 37.6, 'z': 59.7}",,0.030576480552554,3350581,22,1308,"{'start': {'x': 48.9, 'y': 13}, 'end': {'x': 62.4, 'y': 0}, 'goal': {'x': 62.4, 'y': 40.3}}",24,1392,shot,,,,Croatia,13.0,48.9
-Federico Dimarco,True,save,assisted,"{'x': 23.8, 'y': 27.2, 'z': 0}",left-foot,high-centre,"{'x': 0, 'y': 48.4, 'z': 24.7}","{'x': 3.7, 'y': 46.2, 'z': 0}",0.023048551753163,0.0997,3351026,80,4750,"{'start': {'x': 27.2, 'y': 23.8}, 'block': {'x': 46.2, 'y': 3.7}, 'end': {'x': 51.6, 'y': 0}, 'goal': {'x': 51.6, 'y': 75.3}}",11,650,shot,,,Italy,23.8,27.2
-Giovanni Di Lorenzo,True,block,corner,"{'x': 3.6, 'y': 38.5, 'z': 0}",head,low-centre,"{'x': 0, 'y': 49.4, 'z': 18.1}","{'x': 2.4, 'y': 41.5, 'z': 0}",0.051838424056768,,3351003,67,3968,"{'start': {'x': 38.5, 'y': 3.6}, 'block': {'x': 41.5, 'y': 2.4}, 'end': {'x': 50.6, 'y': 0}, 'goal': {'x': 50.6, 'y': 81.9}}",24,1432,shot,,,Italy,3.6,38.5
-Federico Chiesa,True,miss,assisted,"{'x': 17.6, 'y': 65.8, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 57, 'z': 23.6}",,0.03292191028595,,3350993,60,3542,"{'start': {'x': 65.8, 'y': 17.6}, 'end': {'x': 43, 'y': 0}, 'goal': {'x': 43, 'y': 76.4}}",31,1858,shot,,,Italy,17.6,65.8
-Gianluca Scamacca,True,miss,regular,"{'x': 21.8, 'y': 54.4, 'z': 0}",right-foot,left,"{'x': 0, 'y': 62.2, 'z': 4.2}","{'x': 11.4, 'y': 48.2, 'z': 0}",0.025939362123609,,3350980,48,2858,"{'start': {'x': 54.4, 'y': 21.8}, 'block': {'x': 48.2, 'y': 11.4}, 'end': {'x': 37.8, 'y': 0}, 'goal': {'x': 37.8, 'y': 95.8}}",43,2542,shot,,,Italy,21.8,54.4
-Lorenzo Pellegrini,True,miss,assisted,"{'x': 8.3, 'y': 47.1, 'z': 0}",other,left,"{'x': 0, 'y': 64.9, 'z': 13.9}",,0.19831444323063,,3350971,45,2776,"{'start': {'x': 47.1, 'y': 8.3}, 'end': {'x': 35.1, 'y': 0}, 'goal': {'x': 35.1, 'y': 86.1}}",1,2624,shot,2.0,,Italy,8.3,47.1
-Riccardo Calafiori,True,block,corner,"{'x': 8.9, 'y': 48.1, 'z': 0}",head,low-centre,"{'x': 0, 'y': 51.4, 'z': 19}","{'x': 7.2, 'y': 48.2, 'z': 0}",0.05739189684391,,3350964,41,2401,"{'start': {'x': 48.1, 'y': 8.9}, 'block': {'x': 48.2, 'y': 7.2}, 'end': {'x': 48.6, 'y': 0}, 'goal': {'x': 48.6, 'y': 81}}",5,299,shot,,,Italy,8.9,48.1
-Gianluca Scamacca,True,save,assisted,"{'x': 4.2, 'y': 63.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.3, 'z': 0.6}","{'x': 2.2, 'y': 57.8, 'z': 0}",0.15886078774929,0.5179,3350962,40,2358,"{'start': {'x': 63.4, 'y': 4.2}, 'block': {'x': 57.8, 'y': 2.2}, 'end': {'x': 48.7, 'y': 0}, 'goal': {'x': 48.7, 'y': 99.4}}",6,342,shot,,,Italy,4.2,63.4
-Davide Frattesi,True,save,regular,"{'x': 6.4, 'y': 64.2, 'z': 0}",right-foot,high-centre,"{'x': 0, 'y': 50.3, 'z': 22.2}","{'x': 4, 'y': 59.7, 'z': 0}",0.21675609052181,0.256,3350956,33,1973,"{'start': {'x': 64.2, 'y': 6.4}, 'block': {'x': 59.7, 'y': 4}, 'end': {'x': 49.7, 'y': 0}, 'goal': {'x': 49.7, 'y': 77.8}}",13,727,shot,,,Italy,6.4,64.2
-Lorenzo Pellegrini,True,miss,assisted,"{'x': 7.3, 'y': 39.5, 'z': 0}",right-foot,right,"{'x': 0, 'y': 38, 'z': 5.6}","{'x': 4.9, 'y': 48, 'z': 0}",0.060825299471617,,3350952,31,1817,"{'start': {'x': 39.5, 'y': 7.3}, 'block': {'x': 48, 'y': 4.9}, 'end': {'x': 62, 'y': 0}, 'goal': {'x': 62, 'y': 94.4}}",15,883,shot,,,Italy,7.3,39.5
-Federico Chiesa,True,block,corner,"{'x': 24, 'y': 43.2, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.9, 'z': 19}","{'x': 19.8, 'y': 44.2, 'z': 0}",0.01063616015017,,3350945,21,1235,"{'start': {'x': 43.2, 'y': 24}, 'block': {'x': 44.2, 'y': 19.8}, 'end': {'x': 49.1, 'y': 0}, 'goal': {'x': 49.1, 'y': 81}}",25,1465,shot,,,Italy,24.0,43.2
-Riccardo Calafiori,True,block,corner,"{'x': 4.5, 'y': 47.1, 'z': 0}",head,low-centre,"{'x': 0, 'y': 49.4, 'z': 19}","{'x': 3.3, 'y': 48, 'z': 0}",0.19445116817951,,3350955,21,1233,"{'start': {'x': 47.1, 'y': 4.5}, 'block': {'x': 48, 'y': 3.3}, 'end': {'x': 50.6, 'y': 0}, 'goal': {'x': 50.6, 'y': 81}}",25,1467,shot,,,Italy,4.5,47.1
-Nicolò Barella,True,goal,regular,"{'x': 18.9, 'y': 47.3, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 54.6, 'z': 12.7}",,0.089120268821716,0.3423,3350939,16,952,"{'start': {'x': 47.3, 'y': 18.9}, 'end': {'x': 45.4, 'y': 0}, 'goal': {'x': 45.4, 'y': 87.3}}",30,1748,shot,,regular,Italy,18.9,47.3
-Gianluca Scamacca,True,block,regular,"{'x': 14.5, 'y': 64.4, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 52.2, 'z': 19}","{'x': 11.9, 'y': 62.8, 'z': 0}",0.030000058934093,,3350938,16,949,"{'start': {'x': 64.4, 'y': 14.5}, 'block': {'x': 62.8, 'y': 11.9}, 'end': {'x': 47.8, 'y': 0}, 'goal': {'x': 47.8, 'y': 81}}",30,1751,shot,,,Italy,14.5,64.4
-Alessandro Bastoni,True,goal,corner,"{'x': 3.2, 'y': 59.3, 'z': 0}",head,high-centre,"{'x': 0, 'y': 51.3, 'z': 22.8}",,0.19220964610577,0.3749,3350893,11,615,"{'start': {'x': 59.3, 'y': 3.2}, 'end': {'x': 48.7, 'y': 0}, 'goal': {'x': 48.7, 'y': 77.2}}",35,2085,shot,,regular,Italy,3.2,59.3
-Federico Dimarco,True,block,assisted,"{'x': 14.5, 'y': 27.4, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.3, 'z': 19}","{'x': 12.8, 'y': 30.1, 'z': 0}",0.017558827996254,,3350892,10,578,"{'start': {'x': 27.4, 'y': 14.5}, 'block': {'x': 30.1, 'y': 12.8}, 'end': {'x': 50.7, 'y': 0}, 'goal': {'x': 50.7, 'y': 81}}",36,2122,shot,,,Italy,14.5,27.4
-Federico Chiesa,True,block,assisted,"{'x': 8.6, 'y': 72.7, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 48.6, 'z': 19}","{'x': 3.6, 'y': 60.3, 'z': 0}",0.024331673979759,,3350886,6,352,"{'start': {'x': 72.7, 'y': 8.6}, 'block': {'x': 60.3, 'y': 3.6}, 'end': {'x': 51.4, 'y': 0}, 'goal': {'x': 51.4, 'y': 81}}",40,2348,shot,,,Italy,8.6,72.7
-Lorenzo Pellegrini,True,miss,assisted,"{'x': 14.4, 'y': 52.7, 'z': 0}",right-foot,close-right,"{'x': 0, 'y': 42.5, 'z': 34.7}",,0.17223407328129,,3350880,2,116,"{'start': {'x': 52.7, 'y': 14.4}, 'end': {'x': 57.5, 'y': 0}, 'goal': {'x': 57.5, 'y': 65.3}}",44,2584,shot,,,Italy,14.4,52.7
-Mario Mitaj,False,miss,assisted,"{'x': 18.2, 'y': 29.4, 'z': 0}",left-foot,close-high-right,"{'x': 0, 'y': 41.2, 'z': 47.2}",,0.04195773229003,,3351048,90,5700,"{'start': {'x': 29.4, 'y': 18.2}, 'end': {'x': 58.8, 'y': 0}, 'goal': {'x': 58.8, 'y': 52.8}}",1,600,shot,6.0,,Albania,18.2,29.4
-Rey Manaj,False,miss,assisted,"{'x': 3.8, 'y': 66.2, 'z': 0}",right-foot,left,"{'x': 0, 'y': 61, 'z': 6.9}",,0.21717385947704,,3351041,90,5375,"{'start': {'x': 66.2, 'y': 3.8}, 'end': {'x': 39, 'y': 0}, 'goal': {'x': 39, 'y': 93.1}}",1,25,shot,,,Albania,3.8,66.2
-Kristjan Asllani,False,miss,corner,"{'x': 20.4, 'y': 56.2, 'z': 0}",left-foot,right,"{'x': 0, 'y': 37, 'z': 19.4}",,0.033794123679399,,3351011,69,4135,"{'start': {'x': 56.2, 'y': 20.4}, 'end': {'x': 63, 'y': 0}, 'goal': {'x': 63, 'y': 80.6}}",22,1265,shot,,,Albania,20.4,56.2
-Kristjan Asllani,False,block,free-kick,"{'x': 25, 'y': 30.9, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.9, 'z': 19}","{'x': 15.1, 'y': 38.1, 'z': 0}",0.035784356296062,,3350982,52,3102,"{'start': {'x': 30.9, 'y': 25}, 'block': {'x': 38.1, 'y': 15.1}, 'end': {'x': 49.1, 'y': 0}, 'goal': {'x': 49.1, 'y': 81}}",39,2298,shot,,,Albania,25.0,30.9
-Jasir Asani,False,miss,set-piece,"{'x': 25.7, 'y': 65.7, 'z': 0}",left-foot,close-high-left,"{'x': 0, 'y': 58.8, 'z': 59.7}",,0.0067548104561865,,3350967,44,2629,"{'start': {'x': 65.7, 'y': 25.7}, 'end': {'x': 41.2, 'y': 0}, 'goal': {'x': 41.2, 'y': 40.3}}",2,71,shot,,,Albania,25.7,65.7
-Berat Djimsiti,False,miss,assisted,"{'x': 15.1, 'y': 41.6, 'z': 0}",left-foot,left,"{'x': 0, 'y': 78.2, 'z': 13.9}","{'x': 3.2, 'y': 20.6, 'z': 0}",0.079451516270638,,3350889,9,526,"{'start': {'x': 41.6, 'y': 15.1}, 'block': {'x': 20.6, 'y': 3.2}, 'end': {'x': 21.8, 'y': 0}, 'goal': {'x': 21.8, 'y': 86.1}}",37,2174,shot,,,Albania,15.1,41.6
-Jasir Asani,False,block,assisted,"{'x': 11.1, 'y': 72.3, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.5, 'z': 19}","{'x': 10.3, 'y': 70.6, 'z': 0}",0.021808583289385,,3350887,8,439,"{'start': {'x': 72.3, 'y': 11.1}, 'block': {'x': 70.6, 'y': 10.3}, 'end': {'x': 47.5, 'y': 0}, 'goal': {'x': 47.5, 'y': 81}}",38,2261,shot,,,Albania,11.1,72.3
-Nedim Bajrami,False,goal,regular,"{'x': 7.6, 'y': 67, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 46.2, 'z': 25.9}",,0.068278282880783,0.5908,3350879,1,23,"{'start': {'x': 67, 'y': 7.6}, 'end': {'x': 53.8, 'y': 0}, 'goal': {'x': 53.8, 'y': 74.1}}",45,2677,shot,,regular,Albania,7.6,67.0
-Roland Sallai,True,block,set-piece,"{'x': 13.6, 'y': 45, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.9, 'z': 19}","{'x': 13.2, 'y': 45.1, 'z': 0}",0.044109173119068,3350543,69,4088,"{'start': {'x': 45, 'y': 13.6}, 'block': {'x': 45.1, 'y': 13.2}, 'end': {'x': 49.1, 'y': 0}, 'goal': {'x': 49.1, 'y': 81}}",22,1312,shot,,,,Hungary,13.6,45.0
-Barnabás Varga,True,goal,assisted,"{'x': 3.2, 'y': 50.9, 'z': 0}",head,low-right,"{'x': 0, 'y': 47.4, 'z': 12.7}",,0.66239815950394,3350542,66,3924,"{'start': {'x': 50.9, 'y': 3.2}, 'end': {'x': 52.6, 'y': 0}, 'goal': {'x': 52.6, 'y': 87.3}}",25,1476,shot,regular,0.9211,,Hungary,3.2,50.9
-Barnabás Varga,True,miss,assisted,"{'x': 8.8, 'y': 52.3, 'z': 0}",head,close-left,"{'x': 0, 'y': 57, 'z': 27.8}",,0.23932971060276,3350541,63,3768,"{'start': {'x': 52.3, 'y': 8.8}, 'end': {'x': 43, 'y': 0}, 'goal': {'x': 43, 'y': 72.2}}",28,1632,shot,,,,Hungary,8.8,52.3
-Willi Orbán,True,save,set-piece,"{'x': 8.6, 'y': 48.9, 'z': 0}",head,low-centre,"{'x': 0, 'y': 50.7, 'z': 18.4}","{'x': 0.90000000000001, 'y': 49.8, 'z': 0}",0.10784254968166,3350512,40,2376,"{'start': {'x': 48.9, 'y': 8.6}, 'block': {'x': 49.8, 'y': 0.90000000000001}, 'end': {'x': 49.3, 'y': 0}, 'goal': {'x': 49.3, 'y': 81.6}}",6,324,shot,,0.188,,Hungary,8.6,48.9
-Roland Sallai,True,miss,assisted,"{'x': 20.3, 'y': 61.3, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 42.5, 'z': 72.2}",,0.052073333412409,3350454,10,556,"{'start': {'x': 61.3, 'y': 20.3}, 'end': {'x': 57.5, 'y': 0}, 'goal': {'x': 57.5, 'y': 27.8}}",36,2144,shot,,,,Hungary,20.3,61.3
-Attila Szalai,True,miss,set-piece,"{'x': 8.9, 'y': 31.1, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 58.8, 'z': 4.2}","{'x': 1.5, 'y': 39.5, 'z': 0}",0.052499990910292,3350434,2,79,"{'start': {'x': 31.1, 'y': 8.9}, 'block': {'x': 39.5, 'y': 1.5}, 'end': {'x': 41.2, 'y': 0}, 'goal': {'x': 41.2, 'y': 95.8}}",44,2621,shot,,,,Hungary,8.9,31.1
-Breel Embolo,False,goal,regular,"{'x': 14.3, 'y': 52.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.6, 'z': 17.1}",,0.54523730278015,3350550,90,5560,"{'start': {'x': 52.4, 'y': 14.3}, 'end': {'x': 48.4, 'y': 0}, 'goal': {'x': 48.4, 'y': 82.9}}",1,740,shot,regular,0.3399,3.0,Switzerland,14.3,52.4
-Granit Xhaka,False,save,corner,"{'x': 3.8, 'y': 60.3, 'z': 0}",head,low-centre,"{'x': 0, 'y': 48.9, 'z': 12.7}","{'x': 1, 'y': 53.4, 'z': 0}",0.061326272785664,3350547,90,5352,"{'start': {'x': 60.3, 'y': 3.8}, 'block': {'x': 53.4, 'y': 1}, 'end': {'x': 51.1, 'y': 0}, 'goal': {'x': 51.1, 'y': 87.3}}",1,48,shot,,0.0261,,Switzerland,3.8,60.3
-Vincent Sierro,False,block,assisted,"{'x': 26.9, 'y': 36.6, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 48.6, 'z': 19}","{'x': 25.5, 'y': 37.4, 'z': 0}",0.012995824217796,3350548,89,5312,"{'start': {'x': 36.6, 'y': 26.9}, 'block': {'x': 37.4, 'y': 25.5}, 'end': {'x': 51.4, 'y': 0}, 'goal': {'x': 51.4, 'y': 81}}",2,88,shot,,,,Switzerland,26.9,36.6
-Dan Ndoye,False,miss,assisted,"{'x': 11.8, 'y': 63.4, 'z': 0}",right-foot,right,"{'x': 0, 'y': 36.1, 'z': 5.6}",,0.04870317876339,3350546,83,4942,"{'start': {'x': 63.4, 'y': 11.8}, 'end': {'x': 63.9, 'y': 0}, 'goal': {'x': 63.9, 'y': 94.4}}",8,458,shot,,,,Switzerland,11.8,63.4
-Fabian Schär,False,miss,corner,"{'x': 6.3, 'y': 53.8, 'z': 0}",head,close-right,"{'x': 0, 'y': 42.7, 'z': 13.9}",,0.12358509004116,3350545,72,4294,"{'start': {'x': 53.8, 'y': 6.3}, 'end': {'x': 57.3, 'y': 0}, 'goal': {'x': 57.3, 'y': 86.1}}",19,1106,shot,,,,Switzerland,6.3,53.8
-Dan Ndoye,False,block,assisted,"{'x': 10.8, 'y': 31.1, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.7, 'z': 19}","{'x': 8.9, 'y': 34.5, 'z': 0}",0.042792163789272,3350544,71,4239,"{'start': {'x': 31.1, 'y': 10.8}, 'block': {'x': 34.5, 'y': 8.9}, 'end': {'x': 50.3, 'y': 0}, 'goal': {'x': 50.3, 'y': 81}}",20,1161,shot,,,,Switzerland,10.8,31.1
-Dan Ndoye,False,miss,regular,"{'x': 22.8, 'y': 62.7, 'z': 0}",right-foot,high,"{'x': 0, 'y': 47.1, 'z': 93.1}",,0.018225029110909,3350540,58,3476,"{'start': {'x': 62.7, 'y': 22.8}, 'end': {'x': 52.9, 'y': 0}, 'goal': {'x': 52.9, 'y': 6.9}}",33,1924,shot,,,,Switzerland,22.8,62.7
-Ruben Vargas,False,save,assisted,"{'x': 11.1, 'y': 35, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.7, 'z': 3.2}","{'x': 1.5, 'y': 47.5, 'z': 0}",0.043108507990837,3350539,54,3191,"{'start': {'x': 35, 'y': 11.1}, 'block': {'x': 47.5, 'y': 1.5}, 'end': {'x': 50.3, 'y': 0}, 'goal': {'x': 50.3, 'y': 96.8}}",37,2209,shot,,0.0319,,Switzerland,11.1,35.0
-Kwadwo Duah,False,save,assisted,"{'x': 13.8, 'y': 36, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 54, 'z': 9.5}","{'x': 1.6, 'y': 46.9, 'z': 0}",0.1099900752306,3350538,48,2829,"{'start': {'x': 36, 'y': 13.8}, 'block': {'x': 46.9, 'y': 1.6}, 'end': {'x': 46, 'y': 0}, 'goal': {'x': 46, 'y': 90.5}}",43,2571,shot,,0.203,,Switzerland,13.8,36.0
-Kwadwo Duah,False,block,assisted,"{'x': 8.7, 'y': 65.1, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 47.3, 'z': 19}","{'x': 7.5, 'y': 63.4, 'z': 0}",0.055706538259983,3350537,47,2791,"{'start': {'x': 65.1, 'y': 8.7}, 'block': {'x': 63.4, 'y': 7.5}, 'end': {'x': 52.7, 'y': 0}, 'goal': {'x': 52.7, 'y': 81}}",44,2609,shot,,,,Switzerland,8.7,65.1
-Michel Aebischer,False,goal,assisted,"{'x': 22.2, 'y': 41.9, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 45.6, 'z': 8.2}",,0.056842003017664,3350520,45,2683,"{'start': {'x': 41.9, 'y': 22.2}, 'end': {'x': 54.4, 'y': 0}, 'goal': {'x': 54.4, 'y': 91.8}}",1,17,shot,regular,0.4099,,Switzerland,22.2,41.9
-Fabian Schär,False,block,regular,"{'x': 15.3, 'y': 63, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50.8, 'z': 19}","{'x': 11.9, 'y': 59.9, 'z': 0}",0.03149525821209,3350502,29,1715,"{'start': {'x': 63, 'y': 15.3}, 'block': {'x': 59.9, 'y': 11.9}, 'end': {'x': 49.2, 'y': 0}, 'goal': {'x': 49.2, 'y': 81}}",17,985,shot,,,,Switzerland,15.3,63.0
-Fabian Schär,False,block,corner,"{'x': 22.5, 'y': 66.7, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53, 'z': 19}","{'x': 21.4, 'y': 65.7, 'z': 0}",0.018226742744446,3350478,22,1289,"{'start': {'x': 66.7, 'y': 22.5}, 'block': {'x': 65.7, 'y': 21.4}, 'end': {'x': 47, 'y': 0}, 'goal': {'x': 47, 'y': 81}}",24,1411,shot,,,,Switzerland,22.5,66.7
-Ruben Vargas,False,save,regular,"{'x': 11.9, 'y': 56.3, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.6, 'z': 19.6}","{'x': 5.9, 'y': 53.4, 'z': 0}",0.54257935285568,3350474,20,1181,"{'start': {'x': 56.3, 'y': 11.9}, 'block': {'x': 53.4, 'y': 5.9}, 'end': {'x': 48.4, 'y': 0}, 'goal': {'x': 48.4, 'y': 80.4}}",26,1519,shot,,0.4501,,Switzerland,11.9,56.3
-Kwadwo Duah,False,goal,assisted,"{'x': 10.7, 'y': 51.1, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 51.9, 'z': 1.3}",,0.66899973154068,3350464,12,715,"{'start': {'x': 51.1, 'y': 10.7}, 'end': {'x': 48.1, 'y': 0}, 'goal': {'x': 48.1, 'y': 98.7}}",34,1985,shot,regular,0.8594,,Switzerland,10.7,51.1
-Emre Can,True,goal,regular,assisted,"{'x': 20.3, 'y': 47.8, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 45.8, 'z': 8.2}",0.035832051187754,0.3357,3349038,90,3.0,5553,"{'start': {'x': 47.8, 'y': 20.3}, 'end': {'x': 54.2, 'y': 0}, 'goal': {'x': 54.2, 'y': 91.8}}",1,747,shot,,Germany,20.3,47.8
-Leroy Sané,True,miss,,fast-break,"{'x': 25.3, 'y': 52.6, 'z': 0}",left-foot,high-left,"{'x': 0, 'y': 56.6, 'z': 79.2}",0.041160963475704,,3349035,86,,5111,"{'start': {'x': 52.6, 'y': 25.3}, 'end': {'x': 43.4, 'y': 0}, 'goal': {'x': 43.4, 'y': 20.8}}",5,289,shot,,Germany,25.3,52.6
-Leroy Sané,True,save,,assisted,"{'x': 19.5, 'y': 68.5, 'z': 0}",left-foot,high-centre,"{'x': 0, 'y': 50.2, 'z': 20.3}",0.014805857092142,0.0226,3349034,83,,4973,"{'start': {'x': 68.5, 'y': 19.5}, 'block': {'x': 51.4, 'y': 1.9}, 'end': {'x': 49.8, 'y': 0}, 'goal': {'x': 49.8, 'y': 79.7}}",8,427,shot,"{'x': 1.9, 'y': 51.4, 'z': 0}",Germany,19.5,68.5
-Maximilian Mittelstädt,True,miss,,corner,"{'x': 15.6, 'y': 31.3, 'z': 0}",left-foot,high,"{'x': 0, 'y': 48.2, 'z': 90.3}",0.025137145072222,,3349033,80,,4763,"{'start': {'x': 31.3, 'y': 15.6}, 'end': {'x': 51.8, 'y': 0}, 'goal': {'x': 51.8, 'y': 9.7}}",11,637,shot,,Germany,15.6,31.3
-Niclas Füllkrug,True,goal,regular,regular,"{'x': 15, 'y': 48, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 46.4, 'z': 23.4}",0.18599766492844,0.3863,3349012,68,,4063,"{'start': {'x': 48, 'y': 15}, 'end': {'x': 53.6, 'y': 0}, 'goal': {'x': 53.6, 'y': 76.6}}",23,1337,shot,,Germany,15.0,48.0
-Maximilian Mittelstädt,True,miss,,corner,"{'x': 21, 'y': 32.1, 'z': 0}",left-foot,high,"{'x': 0, 'y': 46.9, 'z': 62.5}",0.017643390223384,,3349011,66,,3923,"{'start': {'x': 32.1, 'y': 21}, 'end': {'x': 53.1, 'y': 0}, 'goal': {'x': 53.1, 'y': 37.5}}",25,1477,shot,,Germany,21.0,32.1
-Leroy Sané,True,save,,fast-break,"{'x': 11.7, 'y': 65.4, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.8, 'z': 1.3}",0.12839362025261,0.1463,3349010,63,,3779,"{'start': {'x': 65.4, 'y': 11.7}, 'block': {'x': 52, 'y': 1.8}, 'end': {'x': 52.2, 'y': 0}, 'goal': {'x': 52.2, 'y': 98.7}}",28,1621,shot,"{'x': 1.8, 'y': 52, 'z': 0}",Germany,11.7,65.4
-Florian Wirtz,True,miss,,assisted,"{'x': 27.8, 'y': 44.8, 'z': 0}",right-foot,high-left,"{'x': 0, 'y': 57, 'z': 81.9}",0.026532743126154,,3349008,60,,3595,"{'start': {'x': 44.8, 'y': 27.8}, 'end': {'x': 43, 'y': 0}, 'goal': {'x': 43, 'y': 18.1}}",31,1805,shot,,Germany,27.8,44.8
-Maximilian Mittelstädt,True,block,,regular,"{'x': 15.9, 'y': 29.4, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.6, 'z': 9.7}",0.031711459159851,,3349009,60,,3586,"{'start': {'x': 29.4, 'y': 15.9}, 'block': {'x': 32.7, 'y': 12.9}, 'end': {'x': 50.4, 'y': 0}, 'goal': {'x': 50.4, 'y': 90.3}}",31,1814,shot,"{'x': 12.9, 'y': 32.7, 'z': 0}",Germany,15.9,29.4
-İlkay Gündoğan,True,block,,regular,"{'x': 8.2, 'y': 46.4, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 50, 'z': 19}",0.12547841668129,,3349007,59,,3511,"{'start': {'x': 46.4, 'y': 8.2}, 'block': {'x': 47.1, 'y': 6.6}, 'end': {'x': 50, 'y': 0}, 'goal': {'x': 50, 'y': 81}}",32,1889,shot,"{'x': 6.6, 'y': 47.1, 'z': 0}",Germany,8.2,46.4
-Florian Wirtz,True,miss,,assisted,"{'x': 7.6, 'y': 58.9, 'z': 0}",right-foot,high,"{'x': 0, 'y': 47.1, 'z': 65.3}",0.097916819155216,,3349005,58,,3424,"{'start': {'x': 58.9, 'y': 7.6}, 'end': {'x': 52.9, 'y': 0}, 'goal': {'x': 52.9, 'y': 34.7}}",33,1976,shot,,Germany,7.6,58.9
-Joshua Kimmich,True,block,,corner,"{'x': 21.6, 'y': 65.8, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 52, 'z': 19}",0.033394705504179,,3349003,57,,3389,"{'start': {'x': 65.8, 'y': 21.6}, 'block': {'x': 59.6, 'y': 12.5}, 'end': {'x': 48, 'y': 0}, 'goal': {'x': 48, 'y': 81}}",34,2011,shot,"{'x': 12.5, 'y': 59.6, 'z': 0}",Germany,21.6,65.8
-Pascal Groß,True,block,,corner,"{'x': 20.7, 'y': 32.3, 'z': 0}",right-foot,low-right,"{'x': 0, 'y': 48, 'z': 19}",0.033208217471838,,3349004,57,,3366,"{'start': {'x': 32.3, 'y': 20.7}, 'block': {'x': 35.4, 'y': 17.5}, 'end': {'x': 52, 'y': 0}, 'goal': {'x': 52, 'y': 81}}",34,2034,shot,"{'x': 17.5, 'y': 35.4, 'z': 0}",Germany,20.7,32.3
-Antonio Rüdiger,True,block,,corner,"{'x': 12.1, 'y': 53.6, 'z': 0}",head,low-left,"{'x': 0, 'y': 52.3, 'z': 19}",0.017593936994672,,3349002,52,,3072,"{'start': {'x': 53.6, 'y': 12.1}, 'block': {'x': 52, 'y': 8.8}, 'end': {'x': 47.7, 'y': 0}, 'goal': {'x': 47.7, 'y': 81}}",39,2328,shot,"{'x': 8.8, 'y': 52, 'z': 0}",Germany,12.1,53.6
-Antonio Rüdiger,True,save,,assisted,"{'x': 30.9, 'y': 53.6, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.9, 'z': 10.8}",0.026680184528232,0.2263,3349001,51,,3023,"{'start': {'x': 53.6, 'y': 30.9}, 'block': {'x': 50.4, 'y': 2.3}, 'end': {'x': 46.1, 'y': 0}, 'goal': {'x': 46.1, 'y': 89.2}}",40,2377,shot,"{'x': 2.3, 'y': 50.4, 'z': 0}",Germany,30.9,53.6
-Kai Havertz,True,goal,penalty,penalty,"{'x': 11.5, 'y': 50, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 52.2, 'z': 13.9}",0.7884,0.9606,3349000,45,1.0,2734,"{'start': {'x': 50, 'y': 11.5}, 'end': {'x': 47.8, 'y': 0}, 'goal': {'x': 47.8, 'y': 86.1}}",1,2666,shot,,Germany,11.5,50.0
-İlkay Gündoğan,True,save,,assisted,"{'x': 7.6, 'y': 53.2, 'z': 0}",head,low-left,"{'x': 0, 'y': 52.1, 'z': 1.3}",0.099803552031517,0.1761,3348998,42,,2464,"{'start': {'x': 53.2, 'y': 7.6}, 'block': {'x': 50.4, 'y': 1.4}, 'end': {'x': 47.9, 'y': 0}, 'goal': {'x': 47.9, 'y': 98.7}}",4,236,shot,"{'x': 1.4, 'y': 50.4, 'z': 0}",Germany,7.6,53.2
-Kai Havertz,True,save,,free-kick,"{'x': 18.4, 'y': 52.1, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 53.7, 'z': 7.6}",0.13858512043953,0.3661,3348946,28,,1636,"{'start': {'x': 52.1, 'y': 18.4}, 'block': {'x': 50.4, 'y': 1.4}, 'end': {'x': 46.3, 'y': 0}, 'goal': {'x': 46.3, 'y': 92.4}}",18,1064,shot,"{'x': 1.4, 'y': 50.4, 'z': 0}",Germany,18.4,52.1
-Jamal Musiala,True,goal,regular,assisted,"{'x': 12.5, 'y': 47, 'z': 0}",right-foot,high-left,"{'x': 0, 'y': 52.6, 'z': 32.3}",0.17583408951759,0.3379,3348945,19,,1123,"{'start': {'x': 47, 'y': 12.5}, 'end': {'x': 47.4, 'y': 0}, 'goal': {'x': 47.4, 'y': 67.7}}",27,1577,shot,,Germany,12.5,47.0
-Florian Wirtz,True,goal,regular,assisted,"{'x': 17.7, 'y': 51.6, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 53.9, 'z': 4.4}",0.10261054337025,0.3744,3348944,10,,594,"{'start': {'x': 51.6, 'y': 17.7}, 'end': {'x': 46.1, 'y': 0}, 'goal': {'x': 46.1, 'y': 95.6}}",36,2106,shot,,Germany,17.7,51.6
-Antonio Rüdiger,False,goal,own,set-piece,"{'x': 7.7, 'y': 53.8, 'z': 0}",head,high-centre,"{'x': 0, 'y': 49, 'z': 28.5}",,,3349036,87,,5192,"{'start': {'x': 53.8, 'y': 7.7}, 'end': {'x': 51, 'y': 0}, 'goal': {'x': 51, 'y': 71.5}}",4,208,shot,,Scotland,7.7,53.8
-Scott McKenna,False,miss,,set-piece,"{'x': 10.1, 'y': 63.6, 'z': 0}",head,left,"{'x': 0, 'y': 99.5, 'z': 4.2}",0.018720520660281,,3349037,87,,5190,"{'start': {'x': 63.6, 'y': 10.1}, 'block': {'x': 57, 'y': 8.3}, 'end': {'x': 0.5, 'y': 0}, 'goal': {'x': 0.5, 'y': 95.8}}",4,210,shot,"{'x': 8.3, 'y': 57, 'z': 0}",Scotland,10.1,63.6
-Nicola Zalewski,True,save,assisted,"{'x': 26.5, 'y': 35.2, 'z': 0}",right-foot,high-left,"{'x': 0, 'y': 52.4, 'z': 32.3}","{'x': 2.9, 'y': 49.3, 'z': 0}",0.018331985920668,0.202,3353757,90,5.0,5686,"{'start': {'x': 35.2, 'y': 26.5}, 'block': {'x': 49.3, 'y': 2.9}, 'end': {'x': 47.6, 'y': 0}, 'goal': {'x': 47.6, 'y': 67.7}}",1,614,shot,,Poland,26.5,35.2
-Jakub Moder,True,save,assisted,"{'x': 28.4, 'y': 57.9, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 47.1, 'z': 3.2}","{'x': 1.2, 'y': 50.7, 'z': 0}",0.021185558289289,0.1539,3353756,90,2.0,5507,"{'start': {'x': 57.9, 'y': 28.4}, 'block': {'x': 50.7, 'y': 1.2}, 'end': {'x': 52.9, 'y': 0}, 'goal': {'x': 52.9, 'y': 96.8}}",1,793,shot,,Poland,28.4,57.9
-Karol Świderski,True,save,assisted,"{'x': 7.1, 'y': 46.2, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 54.5, 'z': 5.1}","{'x': 1.2, 'y': 48.6, 'z': 0}",0.2272008061409,0.6561,3353754,89,,5328,"{'start': {'x': 46.2, 'y': 7.1}, 'block': {'x': 48.6, 'y': 1.2}, 'end': {'x': 45.5, 'y': 0}, 'goal': {'x': 45.5, 'y': 94.9}}",2,72,shot,,Poland,7.1,46.2
-Jakub Piotrowski,True,miss,regular,"{'x': 1.2, 'y': 41.3, 'z': 0}",left-foot,close-left,"{'x': 0, 'y': 58.7, 'z': 4.2}",,0.13886666297913,,3353753,89,,5329,"{'start': {'x': 41.3, 'y': 1.2}, 'end': {'x': 41.3, 'y': 0}, 'goal': {'x': 41.3, 'y': 95.8}}",2,71,shot,,Poland,1.2,41.3
-Jakub Moder,True,miss,corner,"{'x': 4, 'y': 47.9, 'z': 0}",head,right,"{'x': 0, 'y': 10.3, 'z': 8.3}","{'x': 13.6, 'y': 98.2, 'z': 0}",0.47326856851578,,3353747,80,,4754,"{'start': {'x': 47.9, 'y': 4}, 'block': {'x': 98.2, 'y': 13.6}, 'end': {'x': 89.7, 'y': 0}, 'goal': {'x': 89.7, 'y': 91.7}}",11,646,shot,,Poland,4.0,47.9
-Jakub Moder,True,miss,assisted,"{'x': 9.9, 'y': 42.4, 'z': 0}",right-foot,right,"{'x': 0, 'y': 26.6, 'z': 8.3}","{'x': 7.3, 'y': 57.4, 'z': 0}",0.13386729359627,,3353741,63,,3730,"{'start': {'x': 42.4, 'y': 9.9}, 'block': {'x': 57.4, 'y': 7.3}, 'end': {'x': 73.4, 'y': 0}, 'goal': {'x': 73.4, 'y': 91.7}}",28,1670,shot,,Poland,9.9,42.4
-Piotr Zieliński,True,save,assisted,"{'x': 23.1, 'y': 57.5, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49.9, 'z': 12.7}","{'x': 1.1, 'y': 51.1, 'z': 0}",0.035065114498138,0.0123,3353740,59,,3485,"{'start': {'x': 57.5, 'y': 23.1}, 'block': {'x': 51.1, 'y': 1.1}, 'end': {'x': 50.1, 'y': 0}, 'goal': {'x': 50.1, 'y': 87.3}}",32,1915,shot,,Poland,23.1,57.5
-Jakub Kiwior,True,save,assisted,"{'x': 11.9, 'y': 62, 'z': 0}",left-foot,low-right,"{'x': 0, 'y': 45.8, 'z': 3.8}","{'x': 1.9, 'y': 52.5, 'z': 0}",0.10631028562784,0.2767,3353739,58,,3476,"{'start': {'x': 62, 'y': 11.9}, 'block': {'x': 52.5, 'y': 1.9}, 'end': {'x': 54.2, 'y': 0}, 'goal': {'x': 54.2, 'y': 96.2}}",33,1924,shot,,Poland,11.9,62.0
-Jakub Kiwior,True,save,regular,"{'x': 9.7, 'y': 28.9, 'z': 0}",left-foot,low-centre,"{'x': 0, 'y': 49, 'z': 3.8}","{'x': 1.4, 'y': 44.6, 'z': 0}",0.029082847759128,0.054,3353567,32,,1886,"{'start': {'x': 28.9, 'y': 9.7}, 'block': {'x': 44.6, 'y': 1.4}, 'end': {'x': 51, 'y': 0}, 'goal': {'x': 51, 'y': 96.2}}",14,814,shot,,Poland,9.7,28.9
-Adam Buksa,True,goal,corner,"{'x': 4.9, 'y': 41.9, 'z': 0}",head,low-centre,"{'x': 0, 'y': 48.7, 'z': 14.6}",,0.072090320289135,0.0599,3353550,16,,948,"{'start': {'x': 41.9, 'y': 4.9}, 'end': {'x': 51.3, 'y': 0}, 'goal': {'x': 51.3, 'y': 85.4}}",30,1752,shot,regular,Poland,4.9,41.9
-Adam Buksa,True,block,assisted,"{'x': 10.8, 'y': 69.3, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.4, 'z': 19}","{'x': 9.4, 'y': 66.8, 'z': 0}",0.024317055940628,,3353543,10,,588,"{'start': {'x': 69.3, 'y': 10.8}, 'block': {'x': 66.8, 'y': 9.4}, 'end': {'x': 49.6, 'y': 0}, 'goal': {'x': 49.6, 'y': 81}}",36,2112,shot,,Poland,10.8,69.3
-Bartosz Salamon,True,miss,regular,"{'x': 53.5, 'y': 54.2, 'z': 0}",right-foot,left,"{'x': 0, 'y': 72.1, 'z': 2.8}","{'x': 3.3, 'y': 29.1, 'z': 0}",0.0083847623318434,,3353505,8,,442,"{'start': {'x': 54.2, 'y': 53.5}, 'block': {'x': 29.1, 'y': 3.3}, 'end': {'x': 27.9, 'y': 0}, 'goal': {'x': 27.9, 'y': 97.2}}",38,2258,shot,,Poland,53.5,54.2
-Wout Weghorst,False,goal,regular,"{'x': 7.9, 'y': 46.6, 'z': 0}",left-foot,low-left,"{'x': 0, 'y': 53.4, 'z': 3.2}",,0.13051977753639,0.8491,3353748,83,,4961,"{'start': {'x': 46.6, 'y': 7.9}, 'end': {'x': 46.6, 'y': 0}, 'goal': {'x': 46.6, 'y': 96.8}}",8,439,shot,regular,Netherlands,7.9,46.6
-Stefan de Vrij,False,miss,corner,"{'x': 8.8, 'y': 53.8, 'z': 0}",head,close-high,"{'x': 0, 'y': 49.9, 'z': 56.9}",,0.05956656485796,,3353746,73,,4370,"{'start': {'x': 53.8, 'y': 8.8}, 'end': {'x': 50.1, 'y': 0}, 'goal': {'x': 50.1, 'y': 43.1}}",18,1030,shot,,Netherlands,8.8,53.8
-Denzel Dumfries,False,miss,assisted,"{'x': 8.3, 'y': 71.6, 'z': 0}",right-foot,close-left,"{'x': 0, 'y': 57.3, 'z': 18.1}",,0.019251946359873,,3353742,65,,3844,"{'start': {'x': 71.6, 'y': 8.3}, 'end': {'x': 42.7, 'y': 0}, 'goal': {'x': 42.7, 'y': 81.9}}",26,1556,shot,,Netherlands,8.3,71.6
-Xavi Simons,False,miss,fast-break,"{'x': 12.5, 'y': 64.4, 'z': 0}",right-foot,close-right,"{'x': 0, 'y': 41.7, 'z': 27.8}",,0.05278641730547,,3353738,54,,3224,"{'start': {'x': 64.4, 'y': 12.5}, 'end': {'x': 58.3, 'y': 0}, 'goal': {'x': 58.3, 'y': 72.2}}",37,2176,shot,,Netherlands,12.5,64.4
-Memphis Depay,False,miss,assisted,"{'x': 31.8, 'y': 42.3, 'z': 0}",right-foot,left,"{'x': 0, 'y': 60.2, 'z': 15.3}",,0.016206953674555,,3353710,49,,2887,"{'start': {'x': 42.3, 'y': 31.8}, 'end': {'x': 39.8, 'y': 0}, 'goal': {'x': 39.8, 'y': 84.7}}",42,2513,shot,,Netherlands,31.8,42.3
-Tijjani Reijnders,False,block,assisted,"{'x': 20.4, 'y': 67.1, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 51.3, 'z': 19}","{'x': 17.9, 'y': 64.8, 'z': 0}",0.02791609801352,,3353711,48,,2868,"{'start': {'x': 67.1, 'y': 20.4}, 'block': {'x': 64.8, 'y': 17.9}, 'end': {'x': 48.7, 'y': 0}, 'goal': {'x': 48.7, 'y': 81}}",43,2532,shot,,Netherlands,20.4,67.1
-Xavi Simons,False,block,regular,"{'x': 21.8, 'y': 64.4, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 50.9, 'z': 19}","{'x': 18.8, 'y': 62.3, 'z': 0}",0.025719083845615,,3353709,48,,2855,"{'start': {'x': 64.4, 'y': 21.8}, 'block': {'x': 62.3, 'y': 18.8}, 'end': {'x': 49.1, 'y': 0}, 'goal': {'x': 49.1, 'y': 81}}",43,2545,shot,,Netherlands,21.8,64.4
-Memphis Depay,False,miss,assisted,"{'x': 11.1, 'y': 64.8, 'z': 0}",right-foot,close-left,"{'x': 0, 'y': 58.3, 'z': 4.2}",,0.051320664584637,,3353626,45,1.0,2756,"{'start': {'x': 64.8, 'y': 11.1}, 'end': {'x': 41.7, 'y': 0}, 'goal': {'x': 41.7, 'y': 95.8}}",1,2644,shot,,Netherlands,11.1,64.8
-Tijjani Reijnders,False,miss,assisted,"{'x': 24.6, 'y': 35.9, 'z': 0}",right-foot,high-right,"{'x': 0, 'y': 38.3, 'z': 81.9}",,0.022590301930904,,3353625,45,,2695,"{'start': {'x': 35.9, 'y': 24.6}, 'end': {'x': 61.7, 'y': 0}, 'goal': {'x': 61.7, 'y': 18.1}}",1,5,shot,,Netherlands,24.6,35.9
-Cody Gakpo,False,miss,assisted,"{'x': 7, 'y': 42.7, 'z': 0}",right-foot,high,"{'x': 0, 'y': 50.6, 'z': 63.9}",,0.22849798202515,,3353623,42,,2504,"{'start': {'x': 42.7, 'y': 7}, 'end': {'x': 49.4, 'y': 0}, 'goal': {'x': 49.4, 'y': 36.1}}",4,196,shot,,Netherlands,7.0,42.7
-Cody Gakpo,False,goal,assisted,"{'x': 21.5, 'y': 43, 'z': 0}",right-foot,low-centre,"{'x': 0, 'y': 49.8, 'z': 9.5}",,0.048217970877886,0.0154,3353563,29,,1728,"{'start': {'x': 43, 'y': 21.5}, 'end': {'x': 50.2, 'y': 0}, 'goal': {'x': 50.2, 'y': 90.5}}",17,972,shot,regular,Netherlands,21.5,43.0
-Cody Gakpo,False,miss,assisted,"{'x': 18.8, 'y': 23.9, 'z': 0}",right-foot,left,"{'x': 0, 'y': 59.5, 'z': 1.4}",,0.018598780035973,,3353561,28,,1670,"{'start': {'x': 23.9, 'y': 18.8}, 'end': {'x': 40.5, 'y': 0}, 'goal': {'x': 40.5, 'y': 98.6}}",18,1030,shot,,Netherlands,18.8,23.9
-Tijjani Reijnders,False,block,assisted,"{'x': 1.7, 'y': 38.8, 'z': 0}",head,low-centre,"{'x': 0, 'y': 51.1, 'z': 19}","{'x': 1.2, 'y': 41.5, 'z': 0}",0.037004616111517,,3353559,27,,1603,"{'start': {'x': 38.8, 'y': 1.7}, 'block': {'x': 41.5, 'y': 1.2}, 'end': {'x': 48.9, 'y': 0}, 'goal': {'x': 48.9, 'y': 81}}",19,1097,shot,,Netherlands,1.7,38.8
-Denzel Dumfries,False,miss,assisted,"{'x': 8.9, 'y': 57.4, 'z': 0}",head,close-left,"{'x': 0, 'y': 59, 'z': 23.6}","{'x': 0.90000000000001, 'y': 41.9, 'z': 0}",0.064749985933304,,3353560,27,,1601,"{'start': {'x': 57.4, 'y': 8.9}, 'block': {'x': 41.9, 'y': 0.90000000000001}, 'end': {'x': 41, 'y': 0}, 'goal': {'x': 41, 'y': 76.4}}",19,1099,shot,,Netherlands,8.9,57.4
-Memphis Depay,False,miss,fast-break,"{'x': 7.9, 'y': 68.5, 'z': 0}",right-foot,left,"{'x': 0, 'y': 96.8, 'z': 12.5}","{'x': 2.5, 'y': 0, 'z': 0}",0.09932941198349,,3353556,23,,1365,"{'start': {'x': 68.5, 'y': 7.9}, 'block': {'x': 0, 'y': 2.5}, 'end': {'x': 3.2, 'y': 0}, 'goal': {'x': 3.2, 'y': 87.5}}",23,1335,shot,,Netherlands,7.9,68.5
-Memphis Depay,False,miss,assisted,"{'x': 14.4, 'y': 51.9, 'z': 0}",right-foot,high,"{'x': 0, 'y': 48.1, 'z': 69.4}",,0.11687751859426,,3353554,22,,1275,"{'start': {'x': 51.9, 'y': 14.4}, 'end': {'x': 51.9, 'y': 0}, 'goal': {'x': 51.9, 'y': 30.6}}",24,1425,shot,,Netherlands,14.4,51.9
-Virgil van Dijk,False,save,corner,"{'x': 12.9, 'y': 49.5, 'z': 0}",right-foot,high-centre,"{'x': 0, 'y': 48.5, 'z': 22.8}","{'x': 1.2, 'y': 49.8, 'z': 0}",0.041693732142448,0.084,3353552,20,,1166,"{'start': {'x': 49.5, 'y': 12.9}, 'block': {'x': 49.8, 'y': 1.2}, 'end': {'x': 51.5, 'y': 0}, 'goal': {'x': 51.5, 'y': 77.2}}",26,1534,shot,,Netherlands,12.9,49.5
-Xavi Simons,False,miss,assisted,"{'x': 20.3, 'y': 75, 'z': 0}",right-foot,close-left,"{'x': 0, 'y': 58.3, 'z': 1.4}",,0.028496716171503,,3353545,14,,813,"{'start': {'x': 75, 'y': 20.3}, 'end': {'x': 41.7, 'y': 0}, 'goal': {'x': 41.7, 'y': 98.6}}",32,1887,shot,,Netherlands,20.3,75.0
-Tijjani Reijnders,False,miss,assisted,"{'x': 12.3, 'y': 52.8, 'z': 0}",right-foot,close-right,"{'x': 0, 'y': 43.2, 'z': 6.9}",,0.094660028815269,,3353541,9,,533,"{'start': {'x': 52.8, 'y': 12.3}, 'end': {'x': 56.8, 'y': 0}, 'goal': {'x': 56.8, 'y': 93.1}}",37,2167,shot,,Netherlands,12.3,52.8
-Cody Gakpo,False,miss,assisted,"{'x': 7.9, 'y': 43.2, 'z': 0}",head,right,"{'x': 0, 'y': 29.1, 'z': 9.7}","{'x': 7.2, 'y': 51.8, 'z': 0}",0.056184243410826,,3353504,6,,303,"{'start': {'x': 43.2, 'y': 7.9}, 'block': {'x': 51.8, 'y': 7.2}, 'end': {'x': 70.9, 'y': 0}, 'goal': {'x': 70.9, 'y': 90.3}}",40,2397,shot,,Netherlands,7.9,43.2
-Cody Gakpo,False,save,assisted,"{'x': 7.9, 'y': 28.2, 'z': 0}",right-foot,low-left,"{'x': 0, 'y': 54.2, 'z': 1.3}","{'x': 0.59999999999999, 'y': 46.9, 'z': 0}",0.019023744389415,0.2232,3353503,2,,104,"{'start': {'x': 28.2, 'y': 7.9}, 'block': {'x': 46.9, 'y': 0.59999999999999}, 'end': {'x': 45.8, 'y': 0}, 'goal': {'x': 45.8, 'y': 98.7}}",44,2596,shot,,Netherlands,7.9,28.2
+id,team,player,x,y,xg,xgot,shotType,situation
+
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular
+3349038,Germany,Emre Can,20.3,47.8,0.035832051187754,0.3357,goal,assisted
+3349035,Germany,Leroy Sané,25.3,52.6,0.041160963475704,,miss,fast-break
+3349034,Germany,Leroy Sané,19.5,68.5,0.014805857092142,0.0226,save,assisted
+3349033,Germany,Maximilian Mittelstädt,15.6,31.3,0.025137145072222,,miss,corner
+3349012,Germany,Niclas Füllkrug,15.0,48.0,0.18599766492844,0.3863,goal,regular
+3349011,Germany,Maximilian Mittelstädt,21.0,32.1,0.017643390223384,,miss,corner
+3349010,Germany,Leroy Sané,11.7,65.4,0.12839362025261,0.1463,save,fast-break
+3349008,Germany,Florian Wirtz,27.8,44.8,0.026532743126154,,miss,assisted
+3349009,Germany,Maximilian Mittelstädt,15.9,29.4,0.031711459159851,,block,regular
+3349007,Germany,İlkay Gündoğan,8.2,46.4,0.12547841668129,,block,regular
+3349005,Germany,Florian Wirtz,7.6,58.9,0.097916819155216,,miss,assisted
+3349003,Germany,Joshua Kimmich,21.6,65.8,0.033394705504179,,block,corner
+3349004,Germany,Pascal Groß,20.7,32.3,0.033208217471838,,block,corner
+3349002,Germany,Antonio Rüdiger,12.1,53.6,0.017593936994672,,block,corner
+3349001,Germany,Antonio Rüdiger,30.9,53.6,0.026680184528232,0.2263,save,assisted
+3349000,Germany,Kai Havertz,11.5,50.0,0.7884,0.9606,goal,penalty
+3348998,Germany,İlkay Gündoğan,7.6,53.2,0.099803552031517,0.1761,save,assisted
+3348946,Germany,Kai Havertz,18.4,52.1,0.13858512043953,0.3661,save,free-kick
+3348945,Germany,Jamal Musiala,12.5,47.0,0.17583408951759,0.3379,goal,assisted
+3348944,Germany,Florian Wirtz,17.7,51.6,0.10261054337025,0.3744,goal,assisted
+3349036,Scotland,Antonio Rüdiger,7.7,53.8,,,goal,set-piece
+3349037,Scotland,Scott McKenna,10.1,63.6,0.018720520660281,,miss,set-piece
+3350543,Hungary,Roland Sallai,13.7,46.1,0.046237502247095,,block,set-piece
+3350542,Hungary,Barnabás Varga,4.7,51.9,0.66239815950394,0.754,goal,assisted
+3350541,Hungary,Barnabás Varga,7.6,53.4,0.19832329452038,,miss,assisted
+3350512,Hungary,Willi Orbán,7.8,48.9,0.20752122998238,0.2275,save,set-piece
+3350454,Hungary,Roland Sallai,21.5,58.4,0.047491833567619,,miss,assisted
+3350434,Hungary,Attila Szalai,8.9,32.7,0.090483568608761,,miss,set-piece
+3350550,Switzerland,Breel Embolo,12.5,51.6,0.60602176189423,0.4105,goal,regular
+3350547,Switzerland,Granit Xhaka,3.8,59.5,0.064050666987896,0.0276,save,corner
+3350548,Switzerland,Vincent Sierro,26.9,36.6,0.012615282088518,,block,assisted
+3350546,Switzerland,Dan Ndoye,12.4,61.9,0.04870317876339,,miss,assisted
+3350545,Switzerland,Fabian Schär,6.8,51.5,0.13657473027706,,miss,corner
+3350544,Switzerland,Dan Ndoye,9.1,27.8,0.042792163789272,,block,assisted
+3350540,Switzerland,Dan Ndoye,21.5,62.2,0.022582789883018,,miss,regular
+3350539,Switzerland,Ruben Vargas,11.1,34.9,0.04500350728631,0.0319,save,assisted
+3350538,Switzerland,Kwadwo Duah,13.4,35.3,0.10492362827063,0.1976,save,assisted
+3350537,Switzerland,Kwadwo Duah,9.0,62.1,0.081945359706879,,block,assisted
+3350520,Switzerland,Michel Aebischer,22.2,42.5,0.056842003017664,0.4062,goal,assisted
+3350502,Switzerland,Fabian Schär,15.6,64.5,0.034765344113111,,block,regular
+3350478,Switzerland,Fabian Schär,23.6,64.8,0.011286222375929,,block,corner
+3350474,Switzerland,Ruben Vargas,11.9,56.3,0.54257935285568,0.4501,save,regular
+3350464,Switzerland,Kwadwo Duah,9.7,52.3,0.51448106765747,0.8889,goal,assisted
+3350732,Spain,Ferran Torres,9.5,69.5,0.045293860137463,,block,fast-break
+3350721,Spain,Dani Olmo,26.2,48.5,0.024577317759395,,block,assisted
+3350714,Spain,Lamine Yamal,25.3,58.7,0.066643297672272,,block,free-kick
+3350707,Spain,Álvaro Morata,2.6,42.1,0.23782688379288,,miss,corner
+3350706,Spain,Lamine Yamal,9.8,61.5,0.32134181261063,0.8362,save,fast-break
+3350623,Spain,Daniel Carvajal,5.2,53.6,0.50334048271179,0.649,goal,corner
+3350619,Spain,Robin Le Normand,6.1,48.5,0.14660137891769,,miss,corner
+3350616,Spain,Fabián Ruiz,14.3,46.6,0.13585475087166,0.1444,goal,assisted
+3350613,Spain,Álvaro Morata,15.6,49.7,0.40400397777557,0.874,goal,fast-break
+3350578,Spain,Lamine Yamal,11.9,62.4,0.079328164458275,,miss,fast-break
+3350577,Spain,Álvaro Morata,22.1,63.0,0.047076772898436,0.1882,save,assisted
+3350761,Croatia,Ivan Perišić,11.0,35.2,0.013606139458716,,miss,assisted
+3350728,Croatia,Ivan Perišić,28.4,32.7,0.017737736925483,0.1917,save,assisted
+3350729,Croatia,Ivan Perišić,18.2,33.4,0.045337736606598,,block,assisted
+3350723,Croatia,Bruno Petković,11.5,50.0,0.7884,0.9883,save,penalty
+3350713,Croatia,Mateo Kovačić,4.2,43.2,0.20006696879864,,miss,regular
+3350711,Croatia,Andrej Kramarić,2.7,50.9,0.44897362589836,0.8995,save,assisted
+3350709,Croatia,Ante Budimir,3.0,46.6,0.26666194200516,,miss,regular
+3350708,Croatia,Josip Stanišić,7.4,59.3,0.18661279976368,,block,regular
+3350704,Croatia,Joško Gvardiol,18.7,30.0,0.033455315977335,,block,assisted
+3350622,Croatia,Mateo Kovačić,25.4,36.6,0.01821188442409,,miss,assisted
+3350621,Croatia,Andrej Kramarić,30.4,55.3,0.014164580032229,,miss,assisted
+3350620,Croatia,Joško Gvardiol,4.5,35.0,0.060781434178352,,miss,assisted
+3350618,Croatia,Lovro Majer,2.9,64.2,0.12414707243443,,miss,regular
+3350617,Croatia,Marcelo Brozović,18.5,49.9,0.097135782241821,0.1575,save,regular
+3350615,Croatia,Mateo Kovačić,15.0,47.9,0.13484826683998,0.1603,save,assisted
+3350581,Croatia,Ante Budimir,13.0,48.9,0.030576480552554,,miss,assisted
+3351026,Italy,Federico Dimarco,23.8,27.2,0.023048551753163,0.0997,save,assisted
+3351003,Italy,Giovanni Di Lorenzo,3.6,38.5,0.051838424056768,,block,corner
+3350993,Italy,Federico Chiesa,17.6,65.8,0.03292191028595,,miss,assisted
+3350980,Italy,Gianluca Scamacca,21.8,54.4,0.025939362123609,,miss,regular
+3350971,Italy,Lorenzo Pellegrini,8.3,47.1,0.19831444323063,,miss,assisted
+3350964,Italy,Riccardo Calafiori,8.9,48.1,0.05739189684391,,block,corner
+3350962,Italy,Gianluca Scamacca,4.2,63.4,0.15886078774929,0.5179,save,assisted
+3350956,Italy,Davide Frattesi,6.4,64.2,0.21675609052181,0.256,save,regular
+3350952,Italy,Lorenzo Pellegrini,7.3,39.5,0.060825299471617,,miss,assisted
+3350945,Italy,Federico Chiesa,24.0,43.2,0.01063616015017,,block,corner
+3350955,Italy,Riccardo Calafiori,4.5,47.1,0.19445116817951,,block,corner
+3350939,Italy,Nicolò Barella,18.9,47.3,0.089120268821716,0.3423,goal,regular
+3350938,Italy,Gianluca Scamacca,14.5,64.4,0.030000058934093,,block,regular
+3350893,Italy,Alessandro Bastoni,3.2,59.3,0.19220964610577,0.3749,goal,corner
+3350892,Italy,Federico Dimarco,14.5,27.4,0.017558827996254,,block,assisted
+3350886,Italy,Federico Chiesa,8.6,72.7,0.024331673979759,,block,assisted
+3350880,Italy,Lorenzo Pellegrini,14.4,52.7,0.17223407328129,,miss,assisted
+3351048,Albania,Mario Mitaj,18.2,29.4,0.04195773229003,,miss,assisted
+3351041,Albania,Rey Manaj,3.8,66.2,0.21717385947704,,miss,assisted
+3351011,Albania,Kristjan Asllani,20.4,56.2,0.033794123679399,,miss,corner
+3350982,Albania,Kristjan Asllani,25.0,30.9,0.035784356296062,,block,free-kick
+3350967,Albania,Jasir Asani,25.7,65.7,0.0067548104561865,,miss,set-piece
+3350889,Albania,Berat Djimsiti,15.1,41.6,0.079451516270638,,miss,assisted
+3350887,Albania,Jasir Asani,11.1,72.3,0.021808583289385,,block,assisted
+3350879,Albania,Nedim Bajrami,7.6,67.0,0.068278282880783,0.5908,goal,regular
+3353757,Poland,Nicola Zalewski,26.3,34.4,0.018668623641133,0.2002,save,assisted
+3353756,Poland,Jakub Moder,28.4,57.9,0.021185558289289,0.1539,save,assisted
+3353753,Poland,Jakub Piotrowski,1.2,41.3,0.13886666297913,,miss,regular
+3353754,Poland,Karol Świderski,7.1,46.2,0.2272008061409,0.6561,save,assisted
+3354215,Poland,Jakub Moder,4.0,47.9,0.47326856851578,,miss,corner
+3353741,Poland,Jakub Moder,9.9,42.4,0.13386729359627,,miss,assisted
+3353740,Poland,Piotr Zieliński,23.2,57.7,0.032944016158581,0.0297,save,assisted
+3353739,Poland,Jakub Kiwior,11.4,62.0,0.11932069808245,0.2753,save,assisted
+3353567,Poland,Jakub Kiwior,9.7,28.9,0.029082847759128,0.054,save,regular
+3353550,Poland,Adam Buksa,6.1,46.0,0.12401009351015,0.0359,goal,corner
+3353543,Poland,Adam Buksa,10.8,69.3,0.024317055940628,,block,assisted
+3353505,Poland,Bartosz Salamon,53.5,54.2,0.011483704671264,,miss,fast-break
+3353748,Netherlands,Wout Weghorst,7.9,46.6,0.13051977753639,0.8491,goal,regular
+3353746,Netherlands,Stefan de Vrij,8.5,53.4,0.080307461321354,,miss,corner
+3353742,Netherlands,Denzel Dumfries,8.3,70.1,0.022703681141138,,miss,assisted
+3353738,Netherlands,Xavi Simons,12.5,64.4,0.079612195491791,,miss,fast-break
+3353710,Netherlands,Memphis Depay,31.8,42.3,0.016206953674555,,miss,assisted
+3353711,Netherlands,Tijjani Reijnders,20.4,67.1,0.02791609801352,,block,assisted
+3353709,Netherlands,Xavi Simons,22.9,63.0,0.025146665051579,,block,regular
+3353626,Netherlands,Memphis Depay,12.2,61.7,0.065954655408859,,miss,assisted
+3353625,Netherlands,Tijjani Reijnders,24.6,35.9,0.022590301930904,,miss,assisted
+3353623,Netherlands,Cody Gakpo,7.0,42.7,0.22849798202515,,miss,assisted
+3353563,Netherlands,Cody Gakpo,21.6,44.0,0.047642592340708,0.0154,goal,assisted
+3353561,Netherlands,Cody Gakpo,18.7,26.6,0.019071932882071,,miss,assisted
+3353559,Netherlands,Tijjani Reijnders,1.8,39.7,0.051631979644299,,block,assisted
+3353560,Netherlands,Denzel Dumfries,8.5,53.8,0.15706253051758,,miss,assisted
+3353556,Netherlands,Memphis Depay,7.9,68.5,0.14724907279015,,miss,fast-break
+3353554,Netherlands,Memphis Depay,14.7,51.1,0.12041456252337,,miss,assisted
+3353552,Netherlands,Virgil van Dijk,13.6,48.9,0.035247884690762,0.053,save,corner
+3353545,Netherlands,Xavi Simons,20.3,75.0,0.028496716171503,,miss,assisted
+3353541,Netherlands,Tijjani Reijnders,14.1,52.6,0.076308354735374,,miss,assisted
+3353504,Netherlands,Cody Gakpo,7.9,43.2,0.063879080116749,,miss,assisted
+3353503,Netherlands,Cody Gakpo,7.9,28.2,0.019023744389415,0.2232,save,regular
+3354099,Slovenia,Žan Karničnik,27.6,71.5,0.015452434308827,,miss,assisted
+3354062,Slovenia,Andraž Šporar,4.8,67.5,0.064070291817188,0.3519,save,assisted
+3354059,Slovenia,Andraž Šporar,8.0,50.9,0.11893562972546,,block,assisted
+3354058,Slovenia,Andraž Šporar,9.2,50.2,0.15098048746586,,miss,regular
+3354057,Slovenia,Erik Janža,23.2,32.6,0.0075910803861916,0.0978,goal,corner
+3354055,Slovenia,Benjamin Šeško,25.4,56.0,0.017438104376197,,post,regular
+3354054,Slovenia,Andraž Šporar,4.4,49.7,0.43042623996735,,miss,set-piece
+3354048,Slovenia,Adam Gnezda Čerin,8.0,47.4,0.1680206656456,,miss,assisted
+3353968,Slovenia,Erik Janža,25.3,43.0,0.019517036154866,,miss,corner
+3353967,Slovenia,Erik Janža,24.0,45.4,0.016077375039458,,block,corner
+3353950,Slovenia,Benjamin Šeško,25.2,55.3,0.028109900653362,,miss,assisted
+3354093,Denmark,Morten Hjulmand,23.4,49.3,0.04688672721386,0.0829,save,assisted
+3354061,Denmark,Jannik Vestergaard,8.8,36.0,0.010933407582343,0.1184,save,corner
+3354053,Denmark,Jonas Wind,4.6,53.2,0.17822915315628,,miss,corner
+3354051,Denmark,Christian Eriksen,5.2,34.8,0.055432561784983,,miss,throw-in-set-piece
+3354047,Denmark,Alexander Bah,18.5,61.0,0.095054753124714,,block,fast-break
+3354046,Denmark,Rasmus Højlund,4.5,54.3,0.40282422304153,0.9362,save,fast-break
+3354041,Denmark,Pierre-Emile Højbjerg,7.0,57.9,0.18402346968651,,block,set-piece
+3354039,Denmark,Andreas Christensen,14.8,42.1,0.009739157743752,,block,set-piece
+3353989,Denmark,Christian Eriksen,11.2,40.6,0.19944770634174,,miss,assisted
+3353987,Denmark,Christian Eriksen,26.2,45.6,0.017799753695726,,block,assisted
+3353983,Denmark,Christian Eriksen,11.5,68.7,0.022119294852018,,block,assisted
+3353978,Denmark,Joachim Andersen,8.6,52.1,0.059689719229937,,miss,corner
+3353971,Denmark,Jannik Vestergaard,6.7,50.0,0.14500506222248,,miss,corner
+3353952,Denmark,Christian Eriksen,9.0,54.9,0.33081686496735,0.8282,goal,throw-in-set-piece
+3353949,Denmark,Victor Kristiansen,17.6,46.6,0.032999113202095,,block,throw-in-set-piece
+3353946,Denmark,Andreas Christensen,13.2,46.6,0.0152208507061,,miss,set-piece
+3354523,Serbia,Ivan Ilić,25.4,39.2,0.023023856803775,,block,assisted
+3354516,Serbia,Sergej Milinković-Savić,25.7,35.2,0.017843138426542,,miss,assisted
+3354506,Serbia,Veljko Birmančević,21.5,44.3,0.016802685335279,,block,corner
+3354502,Serbia,Dušan Vlahović,21.9,41.1,0.035917986184359,0.0425,save,regular
+3354270,Serbia,Dušan Vlahović,21.5,56.0,0.032866112887859,,block,assisted
+3354266,Serbia,Aleksandar Mitrović,15.2,59.0,0.046581126749516,,miss,assisted
+3354496,England,Harry Kane,5.1,46.2,0.20039869844913,0.4867,save,assisted
+3354472,England,Trent Alexander-Arnold,25.7,64.8,0.02630896307528,0.0393,save,assisted
+3354283,England,Trent Alexander-Arnold,25.8,62.2,0.04551150277257,,block,free-kick
+3354233,England,Trent Alexander-Arnold,23.1,69.1,0.030303506180644,,miss,assisted
+3354228,England,Jude Bellingham,5.4,49.6,0.23918735980988,0.925,goal,regular

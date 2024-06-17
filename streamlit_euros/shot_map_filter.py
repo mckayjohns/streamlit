@@ -31,6 +31,10 @@ def scrape_sofascore(url: str) -> None:
     df['x'] = df['playerCoordinates'].apply(lambda x: x['x'])
     df['y'] = df['playerCoordinates'].apply(lambda x: x['y'])
 
+    df = df[[
+        'id', 'team', 'player', 'x', 'y', 'xg', 'xgot', 'shotType', 'situation'
+    ]]
+
     # Append the data to the shots.csv
     df.to_csv('~/Documents/Github/streamlit/streamlit_euros/shots.csv', mode='a', header=False, index=False)
 
@@ -39,7 +43,8 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/croatia-spain/YTbspUb#id:11873907')
 # scrape_sofascore('https://www.sofascore.com/italy-albania/PTbshUb#id:11873898')
 # scrape_sofascore('https://www.sofascore.com/netherlands-poland/dUbsfUb#id:12198302')
-# scrape_sofascore('https://www.sofascore.com/slovenia-denmark/BObsJOb#id:11873971')
+# scrape_sofascore(url='https://www.sofascore.com/slovenia-denmark/BObsJOb#id:11873971')
+# scrape_sofascore('https://www.sofascore.com/serbia-england/nUbsfCc#id:11873969')
 
 
 st.title("Euros 2024 Shot Map")
@@ -76,7 +81,7 @@ def plot_shots(df, ax, pitch):
                 x=100 - x['x'],
                 y=100 - x['y'],
                 ax=ax,
-                s=750 * x['xg'],
+                s=1000 * x['xg'],
                 color='green' if x['shotType'] == 'goal' else 'white',
                 edgecolors='black',
                 alpha=1 if x['shotType'] == 'goal' else .5,
@@ -94,3 +99,6 @@ fig, ax = pitch.draw(figsize=(10, 10))
 plot_shots(filtered_df, ax, pitch)
 
 st.pyplot(fig)
+
+
+st.text("Last Updated: 2024-06-19")
