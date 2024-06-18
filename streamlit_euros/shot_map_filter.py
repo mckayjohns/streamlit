@@ -50,6 +50,8 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/austria-france/GObstUb#id:11873975')
 # scrape_sofascore('https://www.sofascore.com/ukraine-romania/CObsbUb#id:12198226')
 # scrape_sofascore('https://www.sofascore.com/belgium-slovakia/XTbsrUb#id:11873978')
+scrape_sofascore('https://www.sofascore.com/georgia-turkey/aUbsnVb#id:12198159')
+scrape_sofascore('https://www.sofascore.com/czech-republic-portugal/eUbsoUb#id:11873989')
 
 
 st.title("Euros 2024 Shot Map")
@@ -107,4 +109,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Last Updated: 2024-06-20")
+st.text("Last Updated: 2024-06-18")

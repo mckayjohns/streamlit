@@ -1132,3 +1132,64 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3357847,Slovakia,Róbert Boženík,15.5,63.4,0.029201230034232,,block,regular
 3357809,Slovakia,Ivan Schranz,2.9,34.0,0.076023615896702,0.5765,goal,regular
 3357808,Slovakia,Juraj Kucka,12.5,44.2,0.13691549003124,0.1423,save,assisted
+3376687,Turkey,Kerem Aktürkoğlu,23.4,65.0,0.71736854314804,0.4793,goal,fast-break
+3376666,Turkey,Yusuf Yazıcı,8.3,45.2,0.10086484253407,0.4849,save,assisted
+3376574,Turkey,Orkun Kökçü,55.7,46.0,0.0084302229806781,,miss,assisted
+3376572,Turkey,Orkun Kökçü,9.7,44.6,0.40418815612793,0.6977,save,fast-break
+3376569,Turkey,Arda Güler,23.8,65.2,0.031696125864983,0.5609,goal,assisted
+3376513,Turkey,Hakan Çalhanoğlu,21.6,60.9,0.021544558927417,,block,assisted
+3376514,Turkey,Mert Müldür,24.2,69.9,0.016906438395381,,block,assisted
+3376512,Turkey,Kenan Yıldız,17.9,29.1,0.016707099974155,,block,assisted
+3376509,Turkey,Hakan Çalhanoğlu,28.9,45.7,0.035079348832369,0.0422,save,free-kick
+3376483,Turkey,Barış Alper Yılmaz,11.6,56.8,0.096277236938477,,block,assisted
+3376482,Turkey,Mert Müldür,7.9,55.0,0.50317972898483,0.3277,save,assisted
+3376301,Turkey,Ferdi Kadıoğlu,36.6,50.3,0.010595773346722,,miss,set-piece
+3376299,Turkey,Kaan Ayhan,11.5,44.5,0.046473894268274,,block,set-piece
+3376289,Turkey,Orkun Kökçü,8.5,55.0,0.32149592041969,,miss,assisted
+3376287,Turkey,Mert Müldür,15.7,63.2,0.027495261281729,0.4184,goal,regular
+3376283,Turkey,Orkun Kökçü,28.1,34.4,0.01449635066092,,block,assisted
+3376282,Turkey,Hakan Çalhanoğlu,14.5,41.5,0.061576969921589,,miss,assisted
+3376278,Turkey,Kenan Yıldız,8.6,24.3,0.013108464889228,0.0449,save,assisted
+3376249,Turkey,Kaan Ayhan,20.9,40.9,0.058966048061848,,post,assisted
+3376248,Turkey,Abdülkerim Bardakcı,7.4,44.2,0.064036220312119,,miss,corner
+3376247,Turkey,Hakan Çalhanoğlu,23.1,72.7,0.02756829559803,,block,assisted
+3376246,Turkey,Kaan Ayhan,7.4,47.2,0.099719017744064,,miss,corner
+3376686,Georgia,Zuriko Davitashvili,11.4,59.5,0.03858146071434,,save,set-piece
+3376669,Georgia,Giorgi Kochorashvili,7.9,46.8,0.11157041043043,,miss,regular
+3376670,Georgia,Budu Zivzivadze,5.7,44.2,0.16728149354458,,block,assisted
+3376614,Georgia,Luka Lochoshvili,8.7,42.6,0.090903967618942,,miss,assisted
+3376573,Georgia,Giorgi Kochorashvili,11.6,54.8,0.29327875375748,,post,assisted
+3376517,Georgia,Khvicha Kvaratskhelia,11.6,40.9,0.11790504306555,,miss,assisted
+3376485,Georgia,Georges Mikautadze,8.2,45.8,0.13851390779018,,block,assisted
+3376484,Georgia,Giorgi Tsitaishvili,5.6,25.3,0.034545656293631,0.0572,save,assisted
+3376298,Georgia,Giorgi Kochorashvili,18.9,47.4,0.043511744588614,,block,regular
+3376296,Georgia,Georges Mikautadze,11.6,53.8,0.15815886855125,,miss,assisted
+3376293,Georgia,Georges Mikautadze,8.2,58.3,0.32896167039871,0.8604,goal,assisted
+3376291,Georgia,Giorgi Tsitaishvili,8.6,24.6,0.021906768903136,0.1414,save,assisted
+3376251,Georgia,Georges Mikautadze,18.4,31.5,0.025111638009548,,miss,corner
+3376250,Georgia,Anzor Mekvabishvili,29.0,49.9,0.021340187638998,0.0711,save,assisted
+3376931,Portugal,Francisco Conceição,3.6,47.4,0.72097420692444,0.9736,goal,regular
+3376926,Portugal,Bruno Fernandes,11.8,19.1,0.0060074296779931,,block,corner
+3376925,Portugal,Vitinha,26.8,39.4,0.027254255488515,0.0949,save,assisted
+3376923,Portugal,Bernardo Silva,13.3,29.1,0.037385780364275,0.0564,save,assisted
+3376922,Portugal,Robin Hranáč,1.8,48.6,,,goal,regular
+3376924,Portugal,Nuno Mendes,4.6,37.6,0.047517079859972,0.0354,save,assisted
+3376919,Portugal,Rafael Leão,11.2,25.6,0.025030950084329,,block,assisted
+3376918,Portugal,Cristiano Ronaldo,27.3,48.5,0.039774421602488,0.0562,save,free-kick
+3376917,Portugal,Cristiano Ronaldo,9.0,48.9,0.074300855398178,,block,assisted
+3376916,Portugal,Bernardo Silva,17.8,70.7,0.017983859404922,,miss,regular
+3376915,Portugal,Diogo Dalot,20.6,64.9,0.030445341020823,,miss,assisted
+3376863,Portugal,Cristiano Ronaldo,9.8,69.6,0.032103262841702,0.0799,save,corner
+3376816,Portugal,Vitinha,11.8,44.8,0.1020520851016,,block,assisted
+3376815,Portugal,Vitinha,22.5,41.6,0.022837879136205,0.2079,save,regular
+3376814,Portugal,Cristiano Ronaldo,11.4,41.7,0.40588536858559,0.6836,save,assisted
+3376813,Portugal,Bruno Fernandes,25.3,28.0,0.013777322135866,,block,assisted
+3376812,Portugal,João Cancelo,14.2,31.1,0.036466751247644,,block,assisted
+3376786,Portugal,Rúben Dias,20.3,69.3,0.038223545998335,,block,assisted
+3376785,Portugal,Nuno Mendes,28.5,32.7,0.017064405605197,,miss,assisted
+3376784,Portugal,Cristiano Ronaldo,10.6,49.0,0.054716233164072,,miss,assisted
+3376927,Czech Republic,Tomáš Souček,18.7,54.6,0.12541578710079,,miss,regular
+3376928,Czech Republic,Petr Ševčík,14.6,55.0,0.1231504380703,,block,throw-in-set-piece
+3376921,Czech Republic,Lukáš Provod,20.7,56.6,0.069515906274319,0.3329,goal,assisted
+3376920,Czech Republic,Mojmir Chytil,13.0,44.8,0.022515259683132,,miss,assisted
+3376783,Czech Republic,Pavel Šulc,15.5,40.7,0.085923261940479,,block,assisted
