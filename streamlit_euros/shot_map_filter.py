@@ -50,9 +50,16 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/austria-france/GObstUb#id:11873975')
 # scrape_sofascore('https://www.sofascore.com/ukraine-romania/CObsbUb#id:12198226')
 # scrape_sofascore('https://www.sofascore.com/belgium-slovakia/XTbsrUb#id:11873978')
-scrape_sofascore('https://www.sofascore.com/georgia-turkey/aUbsnVb#id:12198159')
-scrape_sofascore('https://www.sofascore.com/czech-republic-portugal/eUbsoUb#id:11873989')
+# scrape_sofascore('https://www.sofascore.com/georgia-turkey/aUbsnVb#id:12198159')
+# scrape_sofascore('https://www.sofascore.com/czech-republic-portugal/eUbsoUb#id:11873989')
 
+# scrape_sofascore('https://www.sofascore.com/switzerland-scotland/VTbsZTb#id:11873903')
+# scrape_sofascore('https://www.sofascore.com/germany-hungary/jUbslUb#id:11873900')
+# scrape_sofascore('https://www.sofascore.com/croatia-albania/PTbspUb#id:11873906')
+#
+# scrape_sofascore('https://www.sofascore.com/serbia-slovenia/JObsfCc#id:11873974')
+# scrape_sofascore('https://www.sofascore.com/england-denmark/BObsnUb#id:11873970')
+# scrape_sofascore('https://www.sofascore.com/italy-spain/YTbshUb#id:11873901')
 
 st.title("Euros 2024 Shot Map")
 st.subheader("Filter to any team/player to see all their shots taken!")
@@ -109,4 +116,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Last Updated: 2024-06-18")
+st.text("Last Updated: 2024-06-20")
