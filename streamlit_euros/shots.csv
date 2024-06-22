@@ -1010,7 +1010,7 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3358606,France,Antoine Griezmann,5.0,53.3,0.75928348302841,,miss,assisted
 3358605,France,Ousmane Dembélé,18.9,75.2,0.018672272562981,,miss,assisted
 3358576,France,Kylian Mbappé,13.7,45.1,0.6131963133812,,miss,fast-break
-3358525,France,Maximilian Wöber,4.6,51.8,,,goal,regular
+3358525,France,Maximilian Wöber,4.6,51.8,0,,goal,regular
 3358482,France,Kylian Mbappé,15.2,34.2,0.022397238761187,,block,regular
 3358467,France,Marcus Thuram,4.8,60.1,0.07060157507658,,miss,corner
 3358466,France,Antoine Griezmann,14.5,66.5,0.033453375101089,,block,fast-break
@@ -1078,7 +1078,7 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3358606,France,Antoine Griezmann,5.0,53.3,0.75928348302841,,miss,assisted
 3358605,France,Ousmane Dembélé,18.9,75.2,0.018672272562981,,miss,assisted
 3358576,France,Kylian Mbappé,13.7,45.1,0.6131963133812,,miss,fast-break
-3358525,France,Maximilian Wöber,4.6,51.8,,,goal,regular
+3358525,France,Maximilian Wöber,4.6,51.8,0,,goal,regular
 3358482,France,Kylian Mbappé,15.2,34.2,0.022397238761187,,block,regular
 3358467,France,Marcus Thuram,4.8,60.1,0.07060157507658,,miss,corner
 3358466,France,Antoine Griezmann,14.5,66.5,0.033453375101089,,block,fast-break

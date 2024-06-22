@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import streamlit as st
 
-from mplsoccer import VerticalPitch, Pitch
+from mplsoccer import VerticalPitch
 
 
 def scrape_sofascore(url: str) -> None:
@@ -31,6 +31,7 @@ def scrape_sofascore(url: str) -> None:
     df['player'] = df['player'].apply(lambda x: x['name'])
     df['x'] = df['playerCoordinates'].apply(lambda x: x['x'])
     df['y'] = df['playerCoordinates'].apply(lambda x: x['y'])
+    df['xg'] = df['xG'].fillna(0)
 
     df = df[[
         'id', 'team', 'player', 'x', 'y', 'xg', 'xgot', 'shotType', 'situation'
@@ -70,8 +71,8 @@ st.subheader("Filter to any team/player to see all their shots taken!")
 
 # Load the data
 try:
-    df = pd.read_csv('./streamlit_euros/shots.csv')
-    # df = pd.read_csv('~/Documents/Github/streamlit/streamlit_euros/shots.csv')
+    # df = pd.read_csv('./streamlit_euros/shots.csv')
+    df = pd.read_csv('~/Documents/Github/streamlit/streamlit_euros/shots.csv')
     df = df[df['situation'] != 'own'].reset_index()
     df = df.sort_values(by=['team', 'player'])
 except pd.errors.EmptyDataError:
@@ -94,23 +95,24 @@ def filter_data(df: pd.DataFrame, team: str, player: str):
 
 def plot_shots(df, ax, pitch):
     ax.set_title("Shot Map")
-    if not df.empty:
-        for x in df.to_dict(orient='records'):
-            pitch.scatter(
-                x=100 - x['x'],
-                y=100 - x['y'],
-                ax=ax,
-                s=1000 * x['xg'],
-                color='green' if x['shotType'] == 'goal' else 'white',
-                edgecolors='black',
-                alpha=1 if x['shotType'] == 'goal' else .5,
-                zorder=2 if x['shotType'] == 'goal' else 1
-            )
+
+    for x in df.to_dict(orient='records'):
+        pitch.scatter(
+            x=100 - x['x'],
+            y=100 - x['y'],
+            ax=ax,
+            s=1000 * x['xg'],
+            color='green' if x['shotType'] == 'goal' else 'white',
+            edgecolors='black',
+            alpha=1 if x['shotType'] == 'goal' else .5,
+            zorder=2 if x['shotType'] == 'goal' else 1
+        )
 
 # Selectbox with a default selection that exists
 team = st.selectbox("Select a team", df['team'].unique(), index=0)
 player = st.selectbox("Select a player", df[df['team'] == team]['player'].unique(), index=None)
 filtered_df = filter_data(df, team, player)
+print(filtered_df)
 
 # Create a pitch
 pitch = VerticalPitch(pitch_type='opta', line_zorder=2, pitch_color='#f0f0f0', line_color='black', half=True)
