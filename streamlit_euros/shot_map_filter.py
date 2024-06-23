@@ -31,7 +31,7 @@ def scrape_sofascore(url: str) -> None:
     df['player'] = df['player'].apply(lambda x: x['name'])
     df['x'] = df['playerCoordinates'].apply(lambda x: x['x'])
     df['y'] = df['playerCoordinates'].apply(lambda x: x['y'])
-    df['xg'] = df['xG'].fillna(0)
+    df['xg'] = df['xg'].fillna(0)
 
     df = df[[
         'id', 'team', 'player', 'x', 'y', 'xg', 'xgot', 'shotType', 'situation'
@@ -65,6 +65,10 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/ukraine-slovakia/XTbsbUb#id:12198231')
 # scrape_sofascore('https://www.sofascore.com/austria-poland/dUbstUb#id:12198303')
 # scrape_sofascore('https://www.sofascore.com/netherlands-france/GObsfUb#id:11873991')
+
+# scrape_sofascore('https://www.sofascore.com/georgia-czech-republic/oUbsnVb#id:12198160')
+# scrape_sofascore('https://www.sofascore.com/belgium-romania/CObsrUb#id:11873980')
+# scrape_sofascore('https://www.sofascore.com/portugal-turkey/aUbseUb#id:11873984')
 
 st.title("Euros 2024 Shot Map")
 st.subheader("Filter to any team/player to see all their shots taken!")
@@ -112,7 +116,6 @@ def plot_shots(df, ax, pitch):
 team = st.selectbox("Select a team", df['team'].unique(), index=0)
 player = st.selectbox("Select a player", df[df['team'] == team]['player'].unique(), index=None)
 filtered_df = filter_data(df, team, player)
-print(filtered_df)
 
 # Create a pitch
 pitch = VerticalPitch(pitch_type='opta', line_zorder=2, pitch_color='#f0f0f0', line_color='black', half=True)
@@ -122,4 +125,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Last Updated: 2024-06-21")
+st.text("Matches up to: 2024-06-22")

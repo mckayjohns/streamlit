@@ -1443,3 +1443,183 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3385288,France,Marcus Thuram,8.9,70.7,0.055311340838671,,miss,assisted
 3385257,France,Antoine Griezmann,11.1,47.7,0.095440343022346,,miss,assisted
 3385256,France,Antoine Griezmann,21.9,23.9,0.015514036640525,0.0817,save,assisted
+3386883,Georgia,Saba Lobjanidze,12.0,63.0,0.18248468637466,,miss,fast-break
+3386876,Georgia,Khvicha Kvaratskhelia,26.0,43.0,0.024312390014529,,miss,assisted
+3386869,Georgia,Anzor Mekvabishvili,15.7,44.8,0.10286328941584,,miss,fast-break
+3386838,Georgia,Georges Mikautadze,11.5,50.0,0.7884,0.9933,goal,penalty
+3386812,Georgia,Otar Kakabadze,18.8,70.3,0.016353162005544,,block,regular
+3386884,Czech Republic,Tomáš Holeš,27.9,51.5,0.023472709581256,,block,assisted
+3386882,Czech Republic,Matěj Jurásek,18.5,30.7,0.017703656107187,0.4423,save,assisted
+3386881,Czech Republic,Matěj Jurásek,24.3,72.8,0.020457334816456,,miss,assisted
+3386880,Czech Republic,Ondrej Lingr,18.1,54.6,0.044712103903294,0.2996,save,assisted
+3386879,Czech Republic,Mojmir Chytil,6.3,43.8,0.164415538311,,miss,assisted
+3386877,Czech Republic,David Jurásek,25.4,43.6,0.010785263963044,,miss,corner
+3386878,Czech Republic,Ladislav Krejčí,30.2,41.1,0.017694810405374,,block,assisted
+3386875,Czech Republic,Matěj Jurásek,24.0,54.8,0.020562341436744,0.3,save,assisted
+3386874,Czech Republic,Ladislav Krejčí,9.9,52.2,0.058943256735802,,miss,corner
+3386872,Czech Republic,Patrik Schick,1.3,47.4,0.90266764163971,0.9804,goal,corner
+3386871,Czech Republic,Ondrej Lingr,4.3,54.6,0.16169661283493,,post,corner
+3386870,Czech Republic,David Jurásek,19.0,37.6,0.022898085415363,,miss,corner
+3386873,Czech Republic,Ondrej Lingr,3.2,66.0,0.040386334061623,,block,assisted
+3386868,Czech Republic,Patrik Schick,10.7,52.1,0.045135706663132,,block,assisted
+3386839,Czech Republic,Patrik Schick,13.3,48.3,0.16279616951942,0.2738,save,assisted
+3386810,Czech Republic,Adam Hložek,17.6,30.3,0.030114211142063,0.0229,save,regular
+3386809,Czech Republic,Václav Černý,6.3,51.9,0.44683706760406,0.6817,save,assisted
+3386808,Czech Republic,Adam Hložek,6.6,46.8,0.31652280688286,0.3623,save,throw-in-set-piece
+3386811,Czech Republic,Ladislav Krejčí,11.4,55.1,0.033649042248726,,miss,throw-in-set-piece
+3386806,Czech Republic,Patrik Schick,6.9,53.0,0.1049380749464,,miss,corner
+3386765,Czech Republic,Lukáš Provod,25.4,56.6,0.026233620941639,0.0943,save,assisted
+3386764,Czech Republic,Patrik Schick,17.1,47.8,0.092332102358341,,block,regular
+3386763,Czech Republic,Václav Černý,18.1,65.0,0.04209203645587,,block,regular
+3386760,Czech Republic,Patrik Schick,12.5,55.6,0.014854080043733,0.3202,save,corner
+3386761,Czech Republic,Patrik Schick,7.7,57.6,0.1339904665947,0.1505,save,throw-in-set-piece
+3386762,Czech Republic,Ladislav Krejčí,10.1,41.5,0.14596743881702,,block,throw-in-set-piece
+3386759,Czech Republic,Adam Hložek,9.7,39.7,0.15701545774937,0.0708,save,throw-in-set-piece
+3387361,Belgium,Romelu Lukaku,5.5,67.5,0.15017257630825,0.8708,save,fast-break
+3387352,Belgium,Leandro Trossard,10.5,66.9,0.10195448994637,,block,assisted
+3387341,Belgium,Kevin De Bruyne,12.3,53.6,0.27945226430893,0.6796,goal,regular
+3387290,Belgium,Kevin De Bruyne,22.0,36.0,0.02843033708632,,miss,assisted
+3387289,Belgium,Romelu Lukaku,9.0,55.1,0.12683482468128,0.1501,save,regular
+3387283,Belgium,Jérémy Doku,7.8,34.2,0.066809684038162,,miss,assisted
+3387275,Belgium,Romelu Lukaku,7.6,53.0,0.13284622132778,0.1066,save,set-piece
+3387272,Belgium,Romelu Lukaku,15.1,61.7,0.093594491481781,,block,assisted
+3387268,Belgium,Kevin De Bruyne,18.3,50.9,0.044712103903294,0.1003,save,assisted
+3387261,Belgium,Kevin De Bruyne,20.1,31.5,0.024317685514688,,miss,assisted
+3387207,Belgium,Kevin De Bruyne,13.1,63.3,0.12785361707211,0.6987,save,fast-break
+3387202,Belgium,Dodi Lukebakio,15.0,69.7,0.020173916593194,,block,assisted
+3387199,Belgium,Dodi Lukebakio,6.1,29.5,0.012737217359245,,block,corner
+3387200,Belgium,Jérémy Doku,2.7,29.4,0.01061639841646,0.0964,save,corner
+3387192,Belgium,Jan Vertonghen,10.1,45.0,0.078213751316071,,miss,corner
+3387191,Belgium,Dodi Lukebakio,12.3,58.7,0.20473289489746,0.4478,save,fast-break
+3387190,Belgium,Amadou Onana,23.2,52.8,0.028834844008088,,miss,regular
+3387166,Belgium,Romelu Lukaku,8.5,47.7,0.1448091417551,,block,assisted
+3387165,Belgium,Youri Tielemans,21.4,45.2,0.039791505783796,,block,assisted
+3387160,Belgium,Youri Tielemans,18.8,54.3,0.041910164058208,0.0575,goal,assisted
+3387366,Romania,Radu Drăguşin,27.8,61.5,0.016775734722614,,block,regular
+3387353,Romania,Radu Drăguşin,10.6,39.5,0.011204904876649,,miss,corner
+3387351,Romania,Denis Alibec,12.3,45.0,0.33902454376221,,save,regular
+3387299,Romania,Răzvan Marin,31.2,40.5,0.016206953674555,,miss,assisted
+3387291,Romania,Dennis Man,13.1,56.9,0.094561725854874,0.382,save,regular
+3387271,Romania,Valentin Mihăilă,22.0,39.4,0.022478375583887,,miss,assisted
+3387257,Romania,Valentin Mihăilă,12.2,35.6,0.042402669787407,,miss,regular
+3387233,Romania,Dennis Man,23.2,72.2,0.01571393571794,0.041,save,assisted
+3387231,Romania,Andrei Burcă,7.9,49.3,0.080379672348499,,miss,corner
+3387203,Romania,Dennis Man,14.6,67.9,0.022811891511083,0.2731,save,assisted
+3387195,Romania,Valentin Mihăilă,18.4,33.1,0.030014272779226,,block,fast-break
+3387194,Romania,Valentin Mihăilă,22.3,45.1,0.020625414326787,,miss,corner
+3387163,Romania,Radu Drăguşin,7.0,51.1,0.19898492097855,0.1334,save,corner
+3387161,Romania,Răzvan Marin,24.6,68.9,0.025228139013052,,miss,assisted
+3387152,Turkey,Arda Güler,48.6,33.5,0.0058093224652112,,miss,assisted
+3387145,Turkey,Arda Güler,27.1,69.3,0.013515837490559,,block,regular
+3387097,Turkey,Kenan Yıldız,23.1,28.6,0.016420459374785,,miss,assisted
+3387096,Turkey,Yusuf Yazıcı,19.5,34.4,0.024379381909966,,block,assisted
+3387039,Turkey,Yusuf Yazıcı,27.7,69.7,0.017263378947973,0.0228,save,assisted
+3386985,Turkey,Orkun Kökçü,24.6,43.6,0.042116496711969,0.4401,save,assisted
+3386979,Turkey,Hakan Çalhanoğlu,21.3,77.5,0.0066568218171597,,block,corner
+3386976,Turkey,Orkun Kökçü,10.6,62.7,0.084994472563267,,block,corner
+3386975,Turkey,Kerem Aktürkoğlu,7.4,32.1,0.087847009301186,0.2608,save,assisted
+3386931,Turkey,Kerem Aktürkoğlu,3.5,45.0,0.36186894774437,,miss,assisted
+3386929,Turkey,Kerem Aktürkoğlu,9.4,57.0,0.063629977405071,,miss,assisted
+3387154,Portugal,Rúben Neves,24.8,62.6,0.042454183101654,,miss,assisted
+3387148,Portugal,Bernardo Silva,11.9,44.2,0.17959073185921,,block,assisted
+3387099,Portugal,Cristiano Ronaldo,7.3,46.0,0.19569319486618,,miss,assisted
+3387090,Portugal,Bruno Fernandes,7.7,45.7,0.80528223514557,0.6382,goal,assisted
+3386981,Portugal,Cristiano Ronaldo,18.4,37.0,0.053321469575167,,miss,assisted
+3386980,Portugal,Bruno Fernandes,12.8,68.5,0.068238347768784,,miss,assisted
+3386974,Portugal,Samet Akaydın,19.7,69.7,0.0,,goal,regular
+3386970,Portugal,Bruno Fernandes,15.8,38.9,0.038002602756023,,miss,regular
+3386944,Portugal,Bernardo Silva,8.8,54.3,0.27489322423935,0.7762,goal,regular
+3386937,Portugal,Rafael Leão,9.5,44.9,0.053829800337553,,miss,assisted
+3386934,Portugal,Cristiano Ronaldo,7.7,46.2,0.092639073729515,,miss,assisted
+3386928,Portugal,Bruno Fernandes,27.1,53.3,0.028539318591356,,block,assisted
+3386885,Portugal,Cristiano Ronaldo,14.2,68.5,0.030389595776796,0.2205,save,assisted
+3386883,Georgia,Saba Lobjanidze,12.0,63.0,0.18248468637466,,miss,fast-break
+3386876,Georgia,Khvicha Kvaratskhelia,26.0,43.0,0.024312390014529,,miss,assisted
+3386869,Georgia,Anzor Mekvabishvili,15.7,44.8,0.10286328941584,,miss,fast-break
+3386838,Georgia,Georges Mikautadze,11.5,50.0,0.7884,0.9933,goal,penalty
+3386812,Georgia,Otar Kakabadze,18.8,70.3,0.016353162005544,,block,regular
+3386884,Czech Republic,Tomáš Holeš,27.9,51.5,0.023472709581256,,block,assisted
+3386882,Czech Republic,Matěj Jurásek,18.5,30.7,0.017703656107187,0.4423,save,assisted
+3386881,Czech Republic,Matěj Jurásek,24.3,72.8,0.020457334816456,,miss,assisted
+3386880,Czech Republic,Ondrej Lingr,18.1,54.6,0.044712103903294,0.2996,save,assisted
+3386879,Czech Republic,Mojmir Chytil,6.3,43.8,0.164415538311,,miss,assisted
+3386877,Czech Republic,David Jurásek,25.4,43.6,0.010785263963044,,miss,corner
+3386878,Czech Republic,Ladislav Krejčí,30.2,41.1,0.017694810405374,,block,assisted
+3386875,Czech Republic,Matěj Jurásek,24.0,54.8,0.020562341436744,0.3,save,assisted
+3386874,Czech Republic,Ladislav Krejčí,9.9,52.2,0.058943256735802,,miss,corner
+3386872,Czech Republic,Patrik Schick,1.3,47.4,0.90266764163971,0.9804,goal,corner
+3386871,Czech Republic,Ondrej Lingr,4.3,54.6,0.16169661283493,,post,corner
+3386870,Czech Republic,David Jurásek,19.0,37.6,0.022898085415363,,miss,corner
+3386873,Czech Republic,Ondrej Lingr,3.2,66.0,0.040386334061623,,block,assisted
+3386868,Czech Republic,Patrik Schick,10.7,52.1,0.045135706663132,,block,assisted
+3386839,Czech Republic,Patrik Schick,13.3,48.3,0.16279616951942,0.2738,save,assisted
+3386810,Czech Republic,Adam Hložek,17.6,30.3,0.030114211142063,0.0229,save,regular
+3386809,Czech Republic,Václav Černý,6.3,51.9,0.44683706760406,0.6817,save,assisted
+3386808,Czech Republic,Adam Hložek,6.6,46.8,0.31652280688286,0.3623,save,throw-in-set-piece
+3386811,Czech Republic,Ladislav Krejčí,11.4,55.1,0.033649042248726,,miss,throw-in-set-piece
+3386806,Czech Republic,Patrik Schick,6.9,53.0,0.1049380749464,,miss,corner
+3386765,Czech Republic,Lukáš Provod,25.4,56.6,0.026233620941639,0.0943,save,assisted
+3386764,Czech Republic,Patrik Schick,17.1,47.8,0.092332102358341,,block,regular
+3386763,Czech Republic,Václav Černý,18.1,65.0,0.04209203645587,,block,regular
+3386760,Czech Republic,Patrik Schick,12.5,55.6,0.014854080043733,0.3202,save,corner
+3386761,Czech Republic,Patrik Schick,7.7,57.6,0.1339904665947,0.1505,save,throw-in-set-piece
+3386762,Czech Republic,Ladislav Krejčí,10.1,41.5,0.14596743881702,,block,throw-in-set-piece
+3386759,Czech Republic,Adam Hložek,9.7,39.7,0.15701545774937,0.0708,save,throw-in-set-piece
+3387361,Belgium,Romelu Lukaku,5.5,67.5,0.15017257630825,0.8708,save,fast-break
+3387352,Belgium,Leandro Trossard,10.5,66.9,0.10195448994637,,block,assisted
+3387341,Belgium,Kevin De Bruyne,12.3,53.6,0.27945226430893,0.6796,goal,regular
+3387290,Belgium,Kevin De Bruyne,22.0,36.0,0.02843033708632,,miss,assisted
+3387289,Belgium,Romelu Lukaku,9.0,55.1,0.12683482468128,0.1501,save,regular
+3387283,Belgium,Jérémy Doku,7.8,34.2,0.066809684038162,,miss,assisted
+3387275,Belgium,Romelu Lukaku,7.6,53.0,0.13284622132778,0.1066,save,set-piece
+3387272,Belgium,Romelu Lukaku,15.1,61.7,0.093594491481781,,block,assisted
+3387268,Belgium,Kevin De Bruyne,18.3,50.9,0.044712103903294,0.1003,save,assisted
+3387261,Belgium,Kevin De Bruyne,20.1,31.5,0.024317685514688,,miss,assisted
+3387207,Belgium,Kevin De Bruyne,13.1,63.3,0.12785361707211,0.6987,save,fast-break
+3387202,Belgium,Dodi Lukebakio,15.0,69.7,0.020173916593194,,block,assisted
+3387199,Belgium,Dodi Lukebakio,6.1,29.5,0.012737217359245,,block,corner
+3387200,Belgium,Jérémy Doku,2.7,29.4,0.01061639841646,0.0964,save,corner
+3387192,Belgium,Jan Vertonghen,10.1,45.0,0.078213751316071,,miss,corner
+3387191,Belgium,Dodi Lukebakio,12.3,58.7,0.20473289489746,0.4478,save,fast-break
+3387190,Belgium,Amadou Onana,23.2,52.8,0.028834844008088,,miss,regular
+3387166,Belgium,Romelu Lukaku,8.5,47.7,0.1448091417551,,block,assisted
+3387165,Belgium,Youri Tielemans,21.4,45.2,0.039791505783796,,block,assisted
+3387160,Belgium,Youri Tielemans,18.8,54.3,0.041910164058208,0.0575,goal,assisted
+3387366,Romania,Radu Drăguşin,27.8,61.5,0.016775734722614,,block,regular
+3387353,Romania,Radu Drăguşin,10.6,39.5,0.011204904876649,,miss,corner
+3387351,Romania,Denis Alibec,12.3,45.0,0.33902454376221,,save,regular
+3387299,Romania,Răzvan Marin,31.2,40.5,0.016206953674555,,miss,assisted
+3387291,Romania,Dennis Man,13.1,56.9,0.094561725854874,0.382,save,regular
+3387271,Romania,Valentin Mihăilă,22.0,39.4,0.022478375583887,,miss,assisted
+3387257,Romania,Valentin Mihăilă,12.2,35.6,0.042402669787407,,miss,regular
+3387233,Romania,Dennis Man,23.2,72.2,0.01571393571794,0.041,save,assisted
+3387231,Romania,Andrei Burcă,7.9,49.3,0.080379672348499,,miss,corner
+3387203,Romania,Dennis Man,14.6,67.9,0.022811891511083,0.2731,save,assisted
+3387195,Romania,Valentin Mihăilă,18.4,33.1,0.030014272779226,,block,fast-break
+3387194,Romania,Valentin Mihăilă,22.3,45.1,0.020625414326787,,miss,corner
+3387163,Romania,Radu Drăguşin,7.0,51.1,0.19898492097855,0.1334,save,corner
+3387161,Romania,Răzvan Marin,24.6,68.9,0.025228139013052,,miss,assisted
+3387152,Turkey,Arda Güler,48.6,33.5,0.0058093224652112,,miss,assisted
+3387145,Turkey,Arda Güler,27.1,69.3,0.013515837490559,,block,regular
+3387097,Turkey,Kenan Yıldız,23.1,28.6,0.016420459374785,,miss,assisted
+3387096,Turkey,Yusuf Yazıcı,19.5,34.4,0.024379381909966,,block,assisted
+3387039,Turkey,Yusuf Yazıcı,27.7,69.7,0.017263378947973,0.0228,save,assisted
+3386985,Turkey,Orkun Kökçü,24.6,43.6,0.042116496711969,0.4401,save,assisted
+3386979,Turkey,Hakan Çalhanoğlu,21.3,77.5,0.0066568218171597,,block,corner
+3386976,Turkey,Orkun Kökçü,10.6,62.7,0.084994472563267,,block,corner
+3386975,Turkey,Kerem Aktürkoğlu,7.4,32.1,0.087847009301186,0.2608,save,assisted
+3386931,Turkey,Kerem Aktürkoğlu,3.5,45.0,0.36186894774437,,miss,assisted
+3386929,Turkey,Kerem Aktürkoğlu,9.4,57.0,0.063629977405071,,miss,assisted
+3387154,Portugal,Rúben Neves,24.8,62.6,0.042454183101654,,miss,assisted
+3387148,Portugal,Bernardo Silva,11.9,44.2,0.17959073185921,,block,assisted
+3387099,Portugal,Cristiano Ronaldo,7.3,46.0,0.19569319486618,,miss,assisted
+3387090,Portugal,Bruno Fernandes,7.7,45.7,0.80528223514557,0.6382,goal,assisted
+3386981,Portugal,Cristiano Ronaldo,18.4,37.0,0.053321469575167,,miss,assisted
+3386980,Portugal,Bruno Fernandes,12.8,68.5,0.068238347768784,,miss,assisted
+3386974,Portugal,Samet Akaydın,19.7,69.7,0.0,,goal,regular
+3386970,Portugal,Bruno Fernandes,15.8,38.9,0.038002602756023,,miss,regular
+3386944,Portugal,Bernardo Silva,8.8,54.3,0.27489322423935,0.7762,goal,regular
+3386937,Portugal,Rafael Leão,9.5,44.9,0.053829800337553,,miss,assisted
+3386934,Portugal,Cristiano Ronaldo,7.7,46.2,0.092639073729515,,miss,assisted
+3386928,Portugal,Bruno Fernandes,27.1,53.3,0.028539318591356,,block,assisted
+3386885,Portugal,Cristiano Ronaldo,14.2,68.5,0.030389595776796,0.2205,save,assisted
