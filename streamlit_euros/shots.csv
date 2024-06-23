@@ -1172,7 +1172,7 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3376926,Portugal,Bruno Fernandes,11.8,19.1,0.0060074296779931,,block,corner
 3376925,Portugal,Vitinha,26.8,39.4,0.027254255488515,0.0949,save,assisted
 3376923,Portugal,Bernardo Silva,13.3,29.1,0.037385780364275,0.0564,save,assisted
-3376922,Portugal,Robin Hranáč,1.8,48.6,,,goal,regular
+3376922,Portugal,Robin Hranáč,1.8,48.6,0,,goal,regular
 3376924,Portugal,Nuno Mendes,4.6,37.6,0.047517079859972,0.0354,save,assisted
 3376919,Portugal,Rafael Leão,11.2,25.6,0.025030950084329,,block,assisted
 3376918,Portugal,Cristiano Ronaldo,27.3,48.5,0.039774421602488,0.0562,save,free-kick
