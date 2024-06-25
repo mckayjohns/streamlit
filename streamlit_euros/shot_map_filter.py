@@ -132,4 +132,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Matches up to: 2024-06-22")
+st.text("Matches up to: 2024-06-24")
