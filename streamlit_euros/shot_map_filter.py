@@ -70,6 +70,12 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/belgium-romania/CObsrUb#id:11873980')
 # scrape_sofascore('https://www.sofascore.com/portugal-turkey/aUbseUb#id:11873984')
 
+# scrape_sofascore('https://www.sofascore.com/hungary-scotland/VTbsjUb#id:11873899')
+# scrape_sofascore('https://www.sofascore.com/germany-switzerland/ZTbslUb#id:11873902')
+#
+# scrape_sofascore('https://www.sofascore.com/spain-albania/PTbsYTb#id:11873904')
+# scrape_sofascore('https://www.sofascore.com/croatia-italy/hUbspUb#id:11873896')
+
 st.title("Euros 2024 Shot Map")
 st.subheader("Filter to any team/player to see all their shots taken!")
 
