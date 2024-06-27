@@ -76,6 +76,16 @@ def scrape_sofascore(url: str) -> None:
 # scrape_sofascore('https://www.sofascore.com/spain-albania/PTbsYTb#id:11873904')
 # scrape_sofascore('https://www.sofascore.com/croatia-italy/hUbspUb#id:11873896')
 
+# scrape_sofascore('https://www.sofascore.com/serbia-denmark/BObsfCc#id:11873968')
+# scrape_sofascore('https://www.sofascore.com/england-slovenia/JObsnUb#id:11873967')
+# scrape_sofascore('https://www.sofascore.com/poland-france/GObsdUb#id:12198304')
+# scrape_sofascore('https://www.sofascore.com/austria-netherlands/fUbstUb#id:11873977')
+#
+# scrape_sofascore('https://www.sofascore.com/slovakia-romania/CObsXTb#id:11873983')
+# scrape_sofascore('https://www.sofascore.com/belgium-ukraine/bUbsrUb#id:12198234')
+# scrape_sofascore('https://www.sofascore.com/czech-republic-turkey/aUbsoUb#id:11873986')
+# scrape_sofascore('https://www.sofascore.com/georgia-portugal/eUbsnVb#id:12198161')
+
 st.title("Euros 2024 Shot Map")
 st.subheader("Filter to any team/player to see all their shots taken!")
 
@@ -132,4 +142,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Matches up to: 2024-06-24")
+st.text("Matches up to: 2024-06-26")
