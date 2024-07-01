@@ -1948,3 +1948,72 @@ id,team,player,x,y,xg,xgot,shotType,situation
 3405758,Denmark,Christian Eriksen,18.4,47.3,0.17032697796822,,block,free-kick
 3405751,Denmark,Joakim Mæhle,6.9,32.9,0.12344869226217,,miss,assisted
 3405749,Denmark,Christian Eriksen,19.1,51.1,0.086859494447708,,block,assisted
+3409583,England,Ivan Toney,19.1,51.6,0.10898372530937,,miss,fast-break
+3409537,England,Harry Kane,3.9,55.2,0.23191326856613,0.4822,goal,set-piece
+3409536,England,Eberechi Eze,23.1,44.3,0.020649122074246,,miss,set-piece
+3409533,England,Jude Bellingham,9.4,50.5,0.14806607365608,0.3614,goal,throw-in-set-piece
+3409453,England,Harry Kane,12.8,51.3,0.14984391629696,,miss,regular
+3409479,England,Declan Rice,24.6,48.1,0.026702707633376,,post,assisted
+3409452,England,Harry Kane,7.3,48.9,0.32773986458778,,miss,set-piece
+3409425,England,Phil Foden,18.9,34.0,0.073550589382648,,block,free-kick
+3409428,England,Jude Bellingham,7.4,50.5,0.12060547620058,,block,assisted
+3409417,England,Harry Kane,14.1,41.9,0.061562970280647,,block,assisted
+3409363,England,Bukayo Saka,25.7,56.5,0.010653275065124,,block,corner
+3409362,England,Kobbie Mainoo,21.3,41.9,0.054899893701077,,block,assisted
+3409359,England,Declan Rice,9.2,62.4,0.019154714420438,,block,set-piece
+3409357,England,Kobbie Mainoo,20.3,59.5,0.028793565928936,,miss,corner
+3409356,England,Harry Kane,7.4,57.7,0.053236994892359,,block,assisted
+3409353,England,Kieran Trippier,16.0,37.6,0.085980348289013,,miss,assisted
+3409585,Slovakia,Dávid Hancko,13.3,50.3,0.021900916472077,0.1833,save,assisted
+3409584,Slovakia,Milan Škriniar,7.9,47.2,0.086709730327129,,block,assisted
+3409582,Slovakia,Dávid Hancko,7.7,46.6,0.091851241886616,,miss,assisted
+3409580,Slovakia,Róbert Boženík,3.3,72.6,0.01741112396121,,miss,assisted
+3409574,Slovakia,Ľubomír Tupta,26.8,54.5,0.047903694212437,,miss,free-kick
+3409572,Slovakia,Matúš Bero,23.2,68.1,0.032325517386198,,miss,assisted
+3409570,Slovakia,Peter Pekarík,3.3,52.6,0.62812745571136,,miss,assisted
+3409484,Slovakia,Stanislav Lobotka,27.1,54.2,0.029091186821461,0.0503,save,assisted
+3409421,Slovakia,David Strelec,46.9,39.7,0.26243823766708,,miss,regular
+3409358,Slovakia,Ivan Schranz,6.8,54.5,0.63366335630417,0.9757,goal,assisted
+3409355,Slovakia,Lukáš Haraslín,11.8,40.7,0.1405840665102,,block,assisted
+3409352,Slovakia,Lukáš Haraslín,18.5,43.4,0.069406591355801,,block,assisted
+3409350,Slovakia,David Strelec,10.5,41.3,0.091302968561649,,miss,set-piece
+3409924,Spain,Rodri,12.6,47.8,0.021397180855274,,miss,set-piece
+3409925,Spain,Dani Olmo,3.5,63.4,0.055685374885798,,block,assisted
+3409920,Spain,Dani Olmo,19.1,50.2,0.063653364777565,0.0385,save,assisted
+3409918,Spain,Nico Williams,14.4,35.8,0.064338594675064,,block,assisted
+3409907,Spain,Dani Olmo,15.6,48.0,0.15752932429314,0.3803,goal,assisted
+3409904,Spain,Lamine Yamal,11.1,59.3,0.15114656090736,,miss,assisted
+3409903,Spain,Lamine Yamal,4.3,56.5,0.44631516933441,0.783,save,assisted
+3409898,Spain,Dani Olmo,11.6,48.5,0.21742527186871,0.5224,save,assisted
+3409895,Spain,Nico Williams,9.0,34.2,0.17046825587749,0.5764,goal,fast-break
+3409885,Spain,Fabián Ruiz,26.2,38.5,0.020941244438291,,miss,assisted
+3409875,Spain,Lamine Yamal,14.5,50.7,0.1330501139164,,miss,regular
+3409870,Spain,Dani Olmo,17.2,64.2,0.046962261199951,,miss,assisted
+3409863,Spain,Dani Olmo,24.0,58.1,0.024995237588882,,block,corner
+3409853,Spain,Álvaro Morata,25.1,49.0,0.019276197999716,,miss,assisted
+3409852,Spain,Lamine Yamal,18.9,58.2,0.058716621249914,,miss,assisted
+3409850,Spain,Fabián Ruiz,3.2,45.3,0.476352840662,0.8111,goal,set-piece
+3409848,Spain,Lamine Yamal,18.6,55.2,0.16702388226986,0.5692,save,free-kick
+3409844,Spain,Fabián Ruiz,22.2,55.4,0.036404453217983,,miss,assisted
+3409834,Spain,Lamine Yamal,26.2,59.7,0.015772275626659,,block,assisted
+3409772,Spain,Rodri,16.6,46.0,0.14370803534985,0.5206,goal,assisted
+3409769,Spain,Nico Williams,7.4,32.9,0.069540604948997,0.0639,save,assisted
+3409766,Spain,Marc Cucurella,21.0,33.2,0.018495028838515,0.3732,save,assisted
+3409757,Spain,Lamine Yamal,25.2,59.0,0.016735889017582,,block,assisted
+3409641,Spain,Aymeric Laporte,25.5,40.4,0.033519510179758,,miss,assisted
+3409638,Spain,Pedri,16.2,36.4,0.049534350633621,,miss,regular
+3409637,Spain,Rodri,26.1,42.3,0.032572083175182,,block,assisted
+3409627,Spain,Fabián Ruiz,15.4,66.0,0.074059374630451,0.1884,save,assisted
+3409619,Spain,Aymeric Laporte,8.3,44.4,0.04270551726222,,miss,corner
+3409616,Spain,Nico Williams,8.9,30.8,0.048118498176336,,block,assisted
+3409614,Spain,Fabián Ruiz,15.4,55.4,0.055837191641331,,block,assisted
+3409610,Spain,Nico Williams,18.2,41.8,0.060405839234591,,block,assisted
+3409609,Spain,Daniel Carvajal,6.3,36.8,0.014576715417206,0.171,save,corner
+3409599,Spain,Fabián Ruiz,10.9,43.5,0.028056247159839,,block,assisted
+3409592,Spain,Pedri,10.4,58.1,0.28805702924728,0.0912,save,assisted
+3409590,Spain,Fabián Ruiz,23.4,48.0,0.036682385951281,,block,regular
+3409883,Georgia,Giorgi Tsitaishvili,8.5,32.8,0.12217886000872,,miss,assisted
+3409847,Georgia,Khvicha Kvaratskhelia,54.4,34.4,0.073143869638443,,miss,fast-break
+3409828,Georgia,Giorgi Kochorashvili,53.1,47.4,0.012864220887423,,miss,assisted
+3409642,Georgia,Giorgi Kochorashvili,19.2,52.8,0.037721775472164,,block,assisted
+3409623,Georgia,Robin Le Normand,7.1,47.2,0.0,,goal,regular
