@@ -99,6 +99,8 @@ def scrape_sofascore(url: str) -> None:
 #     'https://www.sofascore.com/austria-turkey/aUbstUb#id:11874025',
 #     'https://www.sofascore.com/germany-spain/YTbslUb#id:11874027',
 #     'https://www.sofascore.com/portugal-france/GObseUb#id:11874026'
+#     'https://www.sofascore.com/england-switzerland/ZTbsnUb#id:11874019',
+#     'https://www.sofascore.com/netherlands-turkey/aUbsfUb#id:11874021'
 # ]:
 #     scrape_sofascore(x)
 
@@ -158,4 +160,4 @@ plot_shots(filtered_df, ax, pitch)
 st.pyplot(fig)
 
 
-st.text("Matches up to: 2024-07-05")
+st.text("Matches up to: 2024-07-06")
